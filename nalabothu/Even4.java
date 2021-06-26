@@ -1,11 +1,17 @@
-package assignment1;
+
 import java.util.Scanner;
 public class Even4 {
     public static void main(String[] args)
     {
-        int aj;
+        int a;
         System.out.println("enter a value");
         Scanner sr=new Scanner(System.in);
+        
+        if(!sr.hasNextInt())
+        {
+            System.out.println("this is not a number pleas enter number");
+            sr.next();
+        }
         a=sr.nextInt();
         if(a%2==0)
         {
@@ -13,9 +19,10 @@ public class Even4 {
         }
         if(a%2==1)
         {
-            System.out.println(+a+"is odd number");
+            System.out.println(+a +"is odd number");
         }
-        }
+    sr.close();    
+    }
     }
 
 
