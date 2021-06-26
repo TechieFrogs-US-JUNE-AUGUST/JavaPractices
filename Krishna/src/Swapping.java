@@ -1,4 +1,3 @@
-package Assignment.java;
 import java.util.Scanner;
 public class Swapping {
     public static void main(String[] args) {
@@ -12,6 +11,5 @@ c=a;
 a=b;
 b=c;
         System.out.print("after swapping a=" +a+ " b= " +b);
-        //System.out.println();
     }
 }

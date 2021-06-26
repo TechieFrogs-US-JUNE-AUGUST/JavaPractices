@@ -1,4 +1,4 @@
-package Assignment.java;
+
 public class CharDisplay {
     public static void main(String[] args) {
         char c;

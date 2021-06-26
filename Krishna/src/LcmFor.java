@@ -1,4 +1,3 @@
-package Assignment.java;
 import java.util.Scanner;
 public class LcmFor {
     public static void main(String[] args) {

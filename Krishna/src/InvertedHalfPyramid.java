@@ -1,4 +1,3 @@
-package Assignment.java;
 public class InvertedHalfPyramid
 {
     public static void main(String[] args)

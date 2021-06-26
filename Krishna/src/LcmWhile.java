@@ -1,4 +1,4 @@
-package Assignment.java;
+
 import java.util.Scanner;
 public class LcmWhile {
     public static void main(String[] args) {

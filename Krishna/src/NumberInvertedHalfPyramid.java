@@ -1,4 +1,3 @@
-package Assignment.java;
 public class NumberInvertedHalfPyramid
 {
     public static void main(String[] args)

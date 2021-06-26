@@ -1,4 +1,3 @@
-package Assignment.java;
 public class Charactor {
     public static void main(String[] args) {
         char ch='A';

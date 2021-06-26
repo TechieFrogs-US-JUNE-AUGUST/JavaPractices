@@ -1,4 +1,3 @@
-package Assignment.java;
 import java.util.Scanner;
 public class EvenOdd {
     public static void main(String[] args) {
@@ -12,8 +11,10 @@ public class EvenOdd {
         else if(a%2 ==1)
         {
             System.out.println("a is odd");
-        }else {
+        }else 
+        {
             System.out.println("undefined");
         }
+        sc.close();
         }
     }
