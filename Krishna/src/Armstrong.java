@@ -3,7 +3,7 @@ public class Armstrong {
     public static void main(String[] args) {
         int rem, b,result = 0;
         Scanner sc = new Scanner(System.in);
-        System.out.print("enter a value:");
+        System.out.print("enter value of a:");
        int a = sc.nextInt();     //a is number to check if it is armstrong or not.
        b=a;
         while (b != 0) {
