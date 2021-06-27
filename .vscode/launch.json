@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Add2Integers1",
+            "request": "launch",
+            "mainClass": "Add2Integers1",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Add2Integers",
+            "request": "launch",
+            "mainClass": "Add2Integers",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
             "name": "Attach to Chrome",
             "port": 9222,
             "request": "attach",
