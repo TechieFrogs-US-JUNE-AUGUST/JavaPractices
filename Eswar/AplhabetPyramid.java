@@ -12,7 +12,7 @@ public class AplhabetPyramid
         System.out.print(alphabet + " ");
       }
       ++alphabet;
-
+      
       System.out.println();
     }
   }
