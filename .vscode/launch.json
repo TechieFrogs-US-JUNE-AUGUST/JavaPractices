@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Largestamong3numbers",
+            "request": "launch",
+            "mainClass": "Sivanag.src.Largestamong3numbers",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largestamong3numbers",
+            "request": "launch",
+            "mainClass": "Largestamong3numbers",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
             "name": "Launch Add2Integers1",
             "request": "launch",
             "mainClass": "Add2Integers1",
