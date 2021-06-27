@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "pwa-chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Alphabet",
+            "request": "launch",
+            "mainClass": "Alphabet",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch AplhabetPyramid",
+            "request": "launch",
+            "mainClass": "AplhabetPyramid",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch DispalyAlphabet",
+            "request": "launch",
+            "mainClass": "DispalyAlphabet",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch FloyidTriangle",
+            "request": "launch",
+            "mainClass": "FloyidTriangle",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch FullPyramid",
+            "request": "launch",
+            "mainClass": "FullPyramid",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Halfpyramid",
+            "request": "launch",
+            "mainClass": "Halfpyramid",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedfullPyramid",
+            "request": "launch",
+            "mainClass": "InvertedfullPyramid",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedhalfPyamid",
+            "request": "launch",
+            "mainClass": "InvertedhalfPyamid",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestNumber",
+            "request": "launch",
+            "mainClass": "LargestNumber",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lcm",
+            "request": "launch",
+            "mainClass": "Lcm",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumbersPyramid",
+            "request": "launch",
+            "mainClass": "NumbersPyramid",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeProgram",
+            "request": "launch",
+            "mainClass": "PalindromeProgram",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch PascalsTriangle",
+            "request": "launch",
+            "mainClass": "PascalsTriangle",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuotientRemainder",
+            "request": "launch",
+            "mainClass": "QuotientRemainder",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNaturalNumbers",
+            "request": "launch",
+            "mainClass": "SumOfNaturalNumbers",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapNumbers",
+            "request": "launch",
+            "mainClass": "SwapNumbers",
+            "projectName": "JavaPractices_17848fba"
+        },
+        {
+            "type": "java",
+            "name": "Launch VowelConsonant",
+            "request": "launch",
+            "mainClass": "VowelConsonant",
+            "projectName": "JavaPractices_17848fba"
+        }
+    ]
+}
