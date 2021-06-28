@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoIntegers",
+            "request": "launch",
+            "mainClass": "AddTwoIntegers",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Alphabet",
+            "request": "launch",
+            "mainClass": "Alphabet",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
             "name": "Launch SandGlass",
             "request": "launch",
             "mainClass": "SandGlass",
