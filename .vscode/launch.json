@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch InvertedFullPyramid",
+            "request": "launch",
+            "mainClass": "InvertedFullPyramid",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayingCharacters",
+            "request": "launch",
+            "mainClass": "DisplayingCharacters",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
             "name": "Launch Sample",
             "request": "launch",
             "mainClass": "Sample",
