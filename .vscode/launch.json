@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SandGlass",
+            "request": "launch",
+            "mainClass": "SandGlass",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedFullPyramid",
+            "request": "launch",
+            "mainClass": "InvertedFullPyramid",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch FullPyramid",
+            "request": "launch",
+            "mainClass": "FullPyramid",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
             "name": "Launch Largestamong3numbers",
             "request": "launch",
             "mainClass": "Sivanag.src.Largestamong3numbers",
