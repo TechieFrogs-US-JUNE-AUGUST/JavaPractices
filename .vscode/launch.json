@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AlphabetOrNot",
+            "request": "launch",
+            "mainClass": "AlphabetOrNot",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
             "name": "Launch InvertedFullPyramid",
             "request": "launch",
             "mainClass": "InvertedFullPyramid",
