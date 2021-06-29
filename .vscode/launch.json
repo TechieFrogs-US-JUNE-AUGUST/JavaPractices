@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PyramidUsingNumbers",
+            "request": "launch",
+            "mainClass": "PyramidUsingNumbers",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
             "name": "Launch Largestamong3numbers",
             "request": "launch",
             "mainClass": "Sivanag.src.Largestamong3numbers",
