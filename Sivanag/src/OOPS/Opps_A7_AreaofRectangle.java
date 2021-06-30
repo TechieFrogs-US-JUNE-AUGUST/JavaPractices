@@ -1,26 +1,20 @@
-package OOPS;
+
 
 import java.util.Scanner;
 
 class Area
 {
+    void returnArea(int l,int b)
+    {
+    System.out.println("Area of Rectangle is : " + (b*l));
+    }
 Area(int l,int b)
 {
-
-void returnArea(l,b)
-{
-    System.out.println("Area of Rectangle is : " + (b*l));
-
-
+    returnArea(l,b);
+}
 }
 
-
-}
-
-
-}
-
-public class AreaofRectangle {
+public class Opps_A7_AreaofRectangle {
 
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
@@ -30,7 +24,7 @@ public static void main(String[] args) {
     int b = sc.nextInt();
     Area ar = new Area(l, b);
 
-
+sc.close();
 }
 
     

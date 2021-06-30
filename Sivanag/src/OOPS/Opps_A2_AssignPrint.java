@@ -1,6 +1,6 @@
-package OOPS;
 
-public class AssignPrint {
+
+public class Opps_A2_AssignPrint {
     public static void main(String[] args) {
         Student OBJ = new Student();//create an object
         OBJ.name ="SAM";

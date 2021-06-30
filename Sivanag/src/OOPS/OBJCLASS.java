@@ -1,4 +1,4 @@
-package OOPS;
+
 class New1
 {
     int ll;

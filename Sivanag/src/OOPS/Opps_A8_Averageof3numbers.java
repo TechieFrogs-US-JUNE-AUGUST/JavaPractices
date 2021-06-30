@@ -1,4 +1,4 @@
-package OOPS;
+
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ void Avg(int a,int b,int c)
 
 }
 
-public class Averageof3numbers {
+public class Opps_A8_Averageof3numbers {
     public static void main(String[] args) 
     {
         Scanner sc = new Scanner(System.in);

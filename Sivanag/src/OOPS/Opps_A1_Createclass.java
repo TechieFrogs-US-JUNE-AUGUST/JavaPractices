@@ -1,4 +1,4 @@
-package OOPS;
+
 
 class Student
 {
@@ -7,7 +7,7 @@ class Student
     String pno;
     String address;
 }
-public class Createclass
+public class Opps_A1_Createclass
 {
     public static void main(String[] args) {
         Student st = new Student();

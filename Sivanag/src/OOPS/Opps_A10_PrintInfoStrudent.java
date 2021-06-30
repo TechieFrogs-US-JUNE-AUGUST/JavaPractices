@@ -1,4 +1,4 @@
-package OOPS;
+
 class Employee
 {
 
@@ -12,7 +12,7 @@ class Employee
         System.out.println(name + "    " + yj + "    " + address) ;
     }
 }
-public class PrintInfoStrudent {
+public class Opps_A10_PrintInfoStrudent {
     public static void main(String[] args) {
     Employee obj = new Employee();
     Employee objj = new Employee("Robert",1994,"64C-WallsStreat");
