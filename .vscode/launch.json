@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ParameterizedTriangle",
+            "request": "launch",
+            "mainClass": "ParameterizedTriangle",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch TriangleAreaAndPerimeter",
+            "request": "launch",
+            "mainClass": "TriangleAreaAndPerimeter",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoStudents",
+            "request": "launch",
+            "mainClass": "TwoStudents",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentName",
+            "request": "launch",
+            "mainClass": "StudentName",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch SampleClass",
+            "request": "launch",
+            "mainClass": "SampleClass",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
             "name": "Launch SandGlass",
             "request": "launch",
             "mainClass": "SandGlass",
