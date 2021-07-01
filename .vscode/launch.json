@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AddDistances",
+            "request": "launch",
+            "mainClass": "AddDistances",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComplexNumbers",
+            "request": "launch",
+            "mainClass": "ComplexNumbers",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Opps_A6_AreaofRectangle_2methods",
+            "request": "launch",
+            "mainClass": "Opps_A6_AreaofRectangle_2methods",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoRectangle_Area_using_sides",
+            "request": "launch",
+            "mainClass": "TwoRectangle_Area_using_sides",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch TriangleArea_Perimeter_WOP",
+            "request": "launch",
+            "mainClass": "TriangleArea_Perimeter_WOP",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch TriangleArea_Perimeter_WP",
+            "request": "launch",
+            "mainClass": "TriangleArea_Perimeter_WP",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch TriangleArea_Perimeter",
+            "request": "launch",
+            "mainClass": "TriangleArea_Perimeter",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaofRectangle",
+            "request": "launch",
+            "mainClass": "AreaofRectangle",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
             "name": "Launch AlphabetOrNot",
             "request": "launch",
             "mainClass": "AlphabetOrNot",
