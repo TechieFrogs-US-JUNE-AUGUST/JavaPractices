@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StudentInfo4",
+            "request": "launch",
+            "mainClass": "Methods.StudentInfo4",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintNumber1",
+            "request": "launch",
+            "mainClass": "Methods.PrintNumber1",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParentChild8",
+            "request": "launch",
+            "mainClass": "Methods.ParentChild8",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Integers7",
+            "request": "launch",
+            "mainClass": "Methods.Integers7",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Integers7_1",
+            "request": "launch",
+            "mainClass": "Methods.Integers7_1",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntAndChar2",
+            "request": "launch",
+            "mainClass": "Methods.IntAndChar2",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Degree51",
+            "request": "launch",
+            "mainClass": "Methods.Degree51",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Degree5",
+            "request": "launch",
+            "mainClass": "Methods.Degree5",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankBalance6",
+            "request": "launch",
+            "mainClass": "Methods.BankBalance6",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOFSquareAndRectangle3",
+            "request": "launch",
+            "mainClass": "Methods.AreaOFSquareAndRectangle3",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankBalance6_1",
+            "request": "launch",
+            "mainClass": "Methods.BankBalance6_1",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOFSquareAndRectangle3",
+            "request": "launch",
+            "mainClass": "AreaOFSquareAndRectangle3",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParentChild8",
+            "request": "launch",
+            "mainClass": "ParentChild8",
+            "projectName": "JavaPractices_eafd2cf5"
+        },
+        {
+            "type": "java",
             "name": "Launch AddDistances",
             "request": "launch",
             "mainClass": "AddDistances",
