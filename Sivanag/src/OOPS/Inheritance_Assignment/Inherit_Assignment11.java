@@ -7,7 +7,7 @@ class Circlee
     double radius=1.0;
     String color="Red";
     double area;
-    private double π;
+    //private double π;
     Circlee()
     {
 
@@ -51,7 +51,7 @@ class Cylinder extends Circle
 double height=1.0;
 double volume;
 double radius;
-private double π;
+
 Cylinder()
 {
 
@@ -87,7 +87,7 @@ void getVolume()
 void getArea()
 {
     double area;
-    area = ((2*3.14) * (radius * height))+(\u03C0 * (radius * radius));
+    area = ((2*3.14) * (radius * height))+(3.14 * (radius * radius));
     System.out.println("surface Area : " +area); 
 }
 

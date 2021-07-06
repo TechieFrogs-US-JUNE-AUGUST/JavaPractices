@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Method4_Student",
+            "request": "launch",
+            "mainClass": "Methods.Method4_Student",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Method3_PrintAreaRecSquare",
+            "request": "launch",
+            "mainClass": "Methods.Method3_PrintAreaRecSquare",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Method2_Printnumandchar",
+            "request": "launch",
+            "mainClass": "Methods.Method2_Printnumandchar",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Method1_createc_class",
+            "request": "launch",
+            "mainClass": "Methods.Method1_createc_class",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inherit_Assignment11",
+            "request": "launch",
+            "mainClass": "Inheritance_Assignment.Inherit_Assignment11",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
             "name": "Launch Inherit_Assignment7",
             "request": "launch",
             "mainClass": "Inheritance_Assignment.Inherit_Assignment7",

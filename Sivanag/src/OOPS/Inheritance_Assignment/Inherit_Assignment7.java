@@ -12,8 +12,9 @@ class subcls extends Counter1
 {
     void inc()
     {
-    super.i=2;
-    super.increment();
+       i=2;
+       increment();
+    
     }
     
 }

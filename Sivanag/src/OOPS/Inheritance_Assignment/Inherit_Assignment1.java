@@ -2,7 +2,7 @@ package Inheritance_Assignment;
 class parent
 {
     String s = "This is Parent Class";
-     private String method_parent()
+      String method_parent()
     {
         return s;
 
