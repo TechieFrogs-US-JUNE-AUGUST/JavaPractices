@@ -6,6 +6,181 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CircleCylinder",
+            "request": "launch",
+            "mainClass": "Inheritance.CircleCylinder",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppleBanana",
+            "request": "launch",
+            "mainClass": "Inheritance.AppleBanana",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch Purchase",
+            "request": "launch",
+            "mainClass": "Inheritance.Purchase",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassAbc",
+            "request": "launch",
+            "mainClass": "Inheritance.ClassAbc",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch CounterClass",
+            "request": "launch",
+            "mainClass": "Inheritance.CounterClass",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch RectangleCircle",
+            "request": "launch",
+            "mainClass": "Inheritance.RectangleCircle",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareRectangleArea",
+            "request": "launch",
+            "mainClass": "Inheritance.SquareRectangleArea",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeeInfo",
+            "request": "launch",
+            "mainClass": "Inheritance.EmployeeInfo",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrivateParentChild",
+            "request": "launch",
+            "mainClass": "Inheritance.PrivateParentChild",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParentAndChildClass",
+            "request": "launch",
+            "mainClass": "Inheritance.ParentAndChildClass",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bank",
+            "request": "launch",
+            "mainClass": "Methods.Bank",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParentChild",
+            "request": "launch",
+            "mainClass": "Methods.ParentChild",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch Integer",
+            "request": "launch",
+            "mainClass": "Methods.Integer",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankDeposit",
+            "request": "launch",
+            "mainClass": "BankDeposit",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch DegreeInfo",
+            "request": "launch",
+            "mainClass": "DegreeInfo",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareAndRectangle",
+            "request": "launch",
+            "mainClass": "SquareAndRectangle",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch Methods2",
+            "request": "launch",
+            "mainClass": "Methods2",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintNumber",
+            "request": "launch",
+            "mainClass": "PrintNumber",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumDifferenceProduct",
+            "request": "launch",
+            "mainClass": "SumDifferenceProduct",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch Distance",
+            "request": "launch",
+            "mainClass": "Distance",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeeInfo",
+            "request": "launch",
+            "mainClass": "EmployeeInfo",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch AverageCalculation",
+            "request": "launch",
+            "mainClass": "AverageCalculation",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParameterizedRectangle",
+            "request": "launch",
+            "mainClass": "ParameterizedRectangle",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfRectangle",
+            "request": "launch",
+            "mainClass": "AreaOfRectangle",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch RectangleArea",
+            "request": "launch",
+            "mainClass": "RectangleArea",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
             "name": "Launch ParameterizedTriangle",
             "request": "launch",
             "mainClass": "ParameterizedTriangle",

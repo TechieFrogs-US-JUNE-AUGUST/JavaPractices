@@ -8,12 +8,6 @@ Triangle(){
     System.out.println("perimeter of triangle in units "+peri);
     System.out.println("Area of triangle in SQ units "+Area);
 }
-Triangle(int a,int b,int c){
-int peri=a+b+c;
-int Area=(a*b)/2;
-System.out.println("Perimeter of triangle in units "+peri);
-System.out.println("Area of Triangle in SQ units "+Area);
-}
 }
 
 
