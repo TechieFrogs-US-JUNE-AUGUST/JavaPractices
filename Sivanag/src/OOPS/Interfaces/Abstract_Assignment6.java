@@ -1,3 +1,6 @@
+package Interfaces;
+
+import java.util.Scanner;
 abstract class Shape1
 {
     abstract double RectangleArea(double l,double b);
@@ -22,12 +25,22 @@ class Area extends Shape1
 }
 
 
-public class Abstract_Assignment6 {
+public class Abstract_Assignment6{
     public static void main(String[] args) {
         Area objarea =new Area();
-       System.out.println(objarea.RectangleArea(20, 30));
-       System.out.println(objarea.SquareArea(20));
-       System.out.println(objarea.CircleArea(10));
+        Scanner sc =new Scanner(System.in);
+        System.out.print("Enter Length of Rectangle : ");
+        double l=sc.nextDouble();
+        System.out.print("Enter Width of Rectangle : ");
+        double w =sc.nextDouble();
+        System.out.print("Enter side of Square : ");
+        double s =sc.nextDouble();
+        System.out.print("Enter Radious of Circle : ");
+        double r =sc.nextDouble();
+       System.out.println("Area of Rectangle : "+objarea.RectangleArea(l, w));
+       System.out.println("Area of Square: " +objarea.SquareArea(s));
+       System.out.println("Area of Circle: " +objarea.CircleArea(r));
+       sc.close();
       
     }
   
