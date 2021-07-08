@@ -1,8 +1,13 @@
 {
     "java.project.sourcePaths": [
+<<<<<<< HEAD
         "Tarak/src",
         "Manogna",
         "Krishna/src",
         "Tarak"
+=======
+        "Sivanag/src/OOPS",
+        "Sivanag/src"
+>>>>>>> 05289fa49915615e3db7ee5ea5f16f68efe0e7d3
     ]
 }
