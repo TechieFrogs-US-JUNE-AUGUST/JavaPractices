@@ -7,6 +7,13 @@
         {
             "type": "java",
 <<<<<<< HEAD
+<<<<<<< HEAD
+            "name": "Launch PyramidUsingNumbers",
+            "request": "launch",
+            "mainClass": "PyramidUsingNumbers",
+            "projectName": "JavaPractices_a3674465"
+=======
+=======
             "name": "Launch CircleCylinder",
             "request": "launch",
             "mainClass": "Inheritance.CircleCylinder",
@@ -404,6 +411,7 @@
         },
         {
             "type": "java",
+>>>>>>> 69899bb6b07ef756fcd980af100d0ffcc141b15b
             "name": "Launch AlphabetOrNot",
             "request": "launch",
             "mainClass": "AlphabetOrNot",
@@ -472,6 +480,7 @@
             "request": "launch",
             "mainClass": "FullPyramid",
             "projectName": "JavaPractices_fcc8459e"
+>>>>>>> cb7a7fd25aa363bb2ecdd6e97055a7295884500c
         },
         {
             "type": "java",
