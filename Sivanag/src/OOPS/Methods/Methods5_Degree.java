@@ -1,9 +1,8 @@
+package Methods;
 class Degree
 {
-
     void getDegree()
     {
-
         System.out.println("I got Degree");
 
     }
@@ -23,7 +22,6 @@ class PostGraduate extends Degree
         System.out.println("I am a PostGraduate");
     }
 }
-
 public class Methods5_Degree
 {
     public static void main(String[] args)

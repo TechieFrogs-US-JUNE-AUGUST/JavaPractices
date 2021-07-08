@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Abstract_Assignment4",
+            "request": "launch",
+            "mainClass": "Interfaces.Abstract_Assignment4",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstract_Assignment3",
+            "request": "launch",
+            "mainClass": "Interfaces.Abstract_Assignment3",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstract_Assignment2",
+            "request": "launch",
+            "mainClass": "Interfaces.Abstract_Assignment2",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstract_Assignment1",
+            "request": "launch",
+            "mainClass": "Interfaces.Abstract_Assignment1",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
             "name": "Launch Method4_Student",
             "request": "launch",
             "mainClass": "Methods.Method4_Student",

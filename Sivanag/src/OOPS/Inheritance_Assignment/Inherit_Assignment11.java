@@ -15,7 +15,7 @@ class Circlee
     }
     Circlee(double radius)
     {
-
+        this.radius=radius;
 
     }
     Circlee(double radius,String color)
