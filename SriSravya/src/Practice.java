@@ -1,3 +1,4 @@
+import sravya.com.company.AccessModifiers;
 
 public class Practice {
     public static void main(String[] args){
@@ -32,7 +33,9 @@ public class Practice {
     int min=(x>y)?x:y;
        System.out.println(min);
        System.out.println(x>=y);
-
+       AccessModifiers obj=new AccessModifiers();
+       obj.practice();
     }
     
 }
+
