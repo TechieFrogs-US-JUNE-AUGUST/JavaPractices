@@ -13,7 +13,7 @@ class StudentA extends Marks{
         this.social=social;
     }
     double getPercentage() {
-    return ((maths+science+social)/300)*100;
+    return ((maths+science+social)/3);
     }
 }
 class StudentB extends Marks{
@@ -25,7 +25,7 @@ class StudentB extends Marks{
         this.english=english;
     }
     double getPercentage() {
-    return ((maths+science+social+english)/400)*100;
+    return ((maths+science+social+english)/4);
     }
 }
 public class Assignment3 {
