@@ -6,13 +6,13 @@ public class Even4 {
         int a;
         System.out.println("enter a value");
         Scanner sr=new Scanner(System.in);
-        
         if(!sr.hasNextInt())
         {
             System.out.println("this is not a number pleas enter number");
             sr.next();
         }
-        a=sr.nextInt();
+            a=sr.nextInt();
+        
         if(a%2==0)
         {
             System.out.println(+a +"is even number");
