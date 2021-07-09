@@ -1,21 +1,22 @@
-package Sivanag.src;
+
+
+import java.util.Scanner;
 
 class Largestamong3numbers
 {
     public static void main(String args[])
     {
-        int x= 100;
-        int y=20;
-        int z=150;
-      /*  int a;
-        if(x > y)
-            a =x;
-            else 
-            a=y;
-            if(a>z)
-                System.out.println("Largest among " + x +","+y+","+z + " is: " +a);
-                else
-                System.out.println("Largest among " + x +","+y+","+z + " is: " +z);*/
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter First Number : ");
+        int x =sc.nextInt();
+        System.out.print("Enter Second Number : ");
+        int y =sc.nextInt();
+        System.out.print("Enter Third Number : ");
+        int z =sc.nextInt();
+        //int x= 100;
+        // int y=20;
+        // int z=150;
+     
         if(x > y)
             if(x>z)
              System.out.println("Largest among " + x +","+y+","+z + " is: " +x);
@@ -25,6 +26,6 @@ class Largestamong3numbers
             System.out.println("Largest among " + x +","+y+","+z + " is: " +y); 
             else
             System.out.println("Largest among " + x +","+y+","+z + " is: " +z);
-
+sc.close();
     }
 }

@@ -1,2 +1,2 @@
 # JavaPractices
-JavaPractices
+JavaPrac
