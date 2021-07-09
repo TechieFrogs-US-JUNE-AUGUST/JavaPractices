@@ -5,7 +5,7 @@ import java.util.Scanner;
 abstract class Shape{
     abstract void RectangleArea(int length,int breadth);
     abstract void SquareArea(int side);
-    abstract void CircleArea(int rarius);
+    abstract void CircleArea(int radius);
 }
 class Area extends Shape{
     void RectangleArea(int length,int breadth){
