@@ -1,3 +1,5 @@
+package Methods;
+
 class printNu                            //super class
 {
     int i;

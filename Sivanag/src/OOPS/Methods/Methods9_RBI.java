@@ -1,3 +1,5 @@
+package Methods;
+
 class Customer
 {
     String name="siva";
