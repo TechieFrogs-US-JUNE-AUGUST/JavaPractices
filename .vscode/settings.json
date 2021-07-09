@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Sivanag/src",
-        "Manogna1/Methods"
+        "Manogna1/Methods",
+        "Manogna1/Inheritance"
     ]
 }

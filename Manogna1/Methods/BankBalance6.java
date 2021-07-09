@@ -35,12 +35,12 @@ class Bank{
 public class BankBalance6 {
     public static void main(String[] args) {
         Bank b= new Bank();
-        BankA A =new BankA();
-        BankB B= new BankB();
-        BankC C=new BankC();
-        A.getBalance();
-        B.getBalance();
-        C.getBalance();
+        BankA a =new BankA();
+        BankB b1= new BankB();
+        BankC c=new BankC();
+        a.getBalance();
+        b1.getBalance();
+        c.getBalance();
 
     }
 }
