@@ -6,6 +6,258 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AppleBanana",
+            "request": "launch",
+            "mainClass": "Inheritance.AppleBanana",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inheritance11",
+            "request": "launch",
+            "mainClass": "Inheritance.Inheritance11",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inheritance8",
+            "request": "launch",
+            "mainClass": "Inheritance.Inheritance8",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CounterValue",
+            "request": "launch",
+            "mainClass": "Inheritance.CounterValue",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shape1",
+            "request": "launch",
+            "mainClass": "Inheritance.Shape1",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch square",
+            "request": "launch",
+            "mainClass": "Inheritance.square",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Member",
+            "request": "launch",
+            "mainClass": "Inheritance.Member",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parent1",
+            "request": "launch",
+            "mainClass": "Inheritance.Parent1",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parent2",
+            "request": "launch",
+            "mainClass": "Inheritance.Parent2",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inheritance1",
+            "request": "launch",
+            "mainClass": "Inheritance.Inheritance1",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Banks",
+            "request": "launch",
+            "mainClass": "Methods.Banks",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parent",
+            "request": "launch",
+            "mainClass": "Methods.Parent",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Integer7",
+            "request": "launch",
+            "mainClass": "Methods.Integer7",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bank",
+            "request": "launch",
+            "mainClass": "Methods.Bank",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Postgraduate",
+            "request": "launch",
+            "mainClass": "Methods.Postgraduate",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Degree",
+            "request": "launch",
+            "mainClass": "Methods.Degree",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Methods.Student",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintArea",
+            "request": "launch",
+            "mainClass": "Methods.PrintArea",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintNumber",
+            "request": "launch",
+            "mainClass": "Methods.PrintNumber",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintInteger",
+            "request": "launch",
+            "mainClass": "Methods.PrintInteger",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintArea",
+            "request": "launch",
+            "mainClass": "PrintArea",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintInteger",
+            "request": "launch",
+            "mainClass": "PrintInteger",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintNumber",
+            "request": "launch",
+            "mainClass": "PrintNumber",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area7",
+            "request": "launch",
+            "mainClass": "Area7",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangle5",
+            "request": "launch",
+            "mainClass": "Rectangle5",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddDistance",
+            "request": "launch",
+            "mainClass": "AddDistance",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Complex",
+            "request": "launch",
+            "mainClass": "Complex",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TriangleConstructor",
+            "request": "launch",
+            "mainClass": "TriangleConstructor",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoStudents",
+            "request": "launch",
+            "mainClass": "TwoStudents",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student1",
+            "request": "launch",
+            "mainClass": "Student1",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "JavaPractices_fcc8459e"
+        },
+        {
+            "type": "java",
             "name": "Launch SandGlass",
             "request": "launch",
             "mainClass": "SandGlass",
