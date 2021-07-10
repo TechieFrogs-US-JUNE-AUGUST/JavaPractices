@@ -1,4 +1,4 @@
-package Interfaces;
+//package Interfaces;
 abstract class Bank
 {
     abstract void getBalance();

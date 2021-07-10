@@ -1,4 +1,4 @@
-package Interfaces;
+//package Interfaces;
 abstract class Abstractclass
 {
     abstract void a_method();

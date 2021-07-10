@@ -1,4 +1,4 @@
-package Interfaces;
+//package Interfaces;
 abstract class Marks
 {
     abstract void getPercentage();

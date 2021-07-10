@@ -1,4 +1,4 @@
-package Interfaces;
+//package Interfaces;
 
 import java.util.Scanner;
 abstract class Shape1
