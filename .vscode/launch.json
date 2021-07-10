@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch employee9",
+            "request": "launch",
+            "mainClass": "employee9",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankOverload",
+            "request": "launch",
+            "mainClass": "BankOverload",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Office",
+            "request": "launch",
+            "mainClass": "Office",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodSameDiffDataTypes",
+            "request": "launch",
+            "mainClass": "MethodSameDiffDataTypes",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstract2",
+            "request": "launch",
+            "mainClass": "Abstract2",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstract1",
+            "request": "launch",
+            "mainClass": "Abstract1",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstract5",
+            "request": "launch",
+            "mainClass": "Abstract5",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
             "name": "Launch AddBank",
             "request": "launch",
             "mainClass": "Abstractclasses.AddBank",
