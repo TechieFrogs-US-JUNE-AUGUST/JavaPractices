@@ -13,6 +13,6 @@ class swap2numbers
         x = x*y;
         y = x/y;
         x = x/y;
-        System.out.println("Given Numbers x =" +x + ",y =" + y);
+        System.out.println("Swap Numbers x =" +x + ",y =" + y);
     }
 }
