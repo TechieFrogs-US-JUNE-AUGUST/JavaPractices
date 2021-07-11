@@ -2,6 +2,8 @@
     "java.project.sourcePaths": [
         "Urmila/src",
         "Urmila",
-        "Sai/src"
+        "Sai/src",
+        "Krishna/src",
+        "Tarak/src"
     ]
 }

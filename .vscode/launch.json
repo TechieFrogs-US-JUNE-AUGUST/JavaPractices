@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Inheritance11",
+            "request": "launch",
+            "mainClass": "Inheritance.Inheritance11",
+            "projectName": "JavaPractices_4175cd46"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inheritance8",
+            "request": "launch",
+            "mainClass": "Inheritance.Inheritance8",
+            "projectName": "JavaPractices_4175cd46"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfRectangle",
+            "request": "launch",
+            "mainClass": "AreaOfRectangle",
+            "projectName": "JavaPractices_4175cd46"
+        },
+        {
+            "type": "java",
+            "name": "Launch CounterValue",
+            "request": "launch",
+            "mainClass": "Inheritance.CounterValue",
+            "projectName": "JavaPractices_4175cd46"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppleBanana",
+            "request": "launch",
+            "mainClass": "Inheritance.AppleBanana",
+            "projectName": "JavaPractices_4175cd46"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddDistance",
+            "request": "launch",
+            "mainClass": "AddDistance",
+            "projectName": "JavaPractices_4175cd46"
+        },
+        {
+            "type": "java",
+            "name": "Launch Charactor",
+            "request": "launch",
+            "mainClass": "Charactor",
+            "projectName": "JavaPractices_4175cd46"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "JavaPractices_4175cd46"
+        },
+        {
+            "type": "java",
             "name": "Launch employee9",
             "request": "launch",
             "mainClass": "employee9",
