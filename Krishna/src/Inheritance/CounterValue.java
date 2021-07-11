@@ -1,14 +1,12 @@
 package Inheritance;
 
-class Counter
+class Counter7
 {
     int i;
     void increment()
-    {
-
-    }
+    {    }
 }
-class subclass extends Counter
+class Subclass1 extends Counter7
 {
     void increment1()
     {
@@ -19,7 +17,7 @@ class subclass extends Counter
 public class CounterValue{
 public static void main(String[] args) 
 {
- subclass Obj= new subclass();
+    Subclass1 Obj= new Subclass1();
  Obj.increment1();
 }
 }

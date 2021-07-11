@@ -35,22 +35,22 @@ class Circle11{
         return area;
     }
 }
-class Cylinder extends Circle11
+class Cylinder1 extends Circle11
 {
     double height=1.0d;
     double volume;
-    Cylinder()
+    Cylinder1()
     { }
-    Cylinder(double radius)
+    Cylinder1(double radius)
     {
         this.radius=radius;
     }
-    Cylinder(double radius,double height)
+    Cylinder1(double radius,double height)
     {
         this.radius=radius;
         this.height=height;
     }
-    Cylinder(double radius,double height, String colour)
+    Cylinder1(double radius,double height, String colour)
     {
         this.radius=radius;
         this.height=height;
@@ -85,7 +85,7 @@ public class Inheritance11{
         System.out.print("enter height " );
         double h=sc.nextDouble();
         Circle11 circleObj=new Circle11(r);
-        Cylinder cylinderObj=new Cylinder(r,h);
+        Cylinder1 cylinderObj=new Cylinder1(r,h);
         cylinderObj.getArea();
         cylinderObj.getvolume();
         circleObj.getArea();
