@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Prog6Ass4",
+            "request": "launch",
+            "mainClass": "Prog6Ass4",
+            "projectName": "JavaPractices_b67fc64c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog5Ass4",
+            "request": "launch",
+            "mainClass": "Prog5Ass4",
+            "projectName": "JavaPractices_b67fc64c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog4Ass4",
+            "request": "launch",
+            "mainClass": "Prog4Ass4",
+            "projectName": "JavaPractices_b67fc64c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog3Ass4",
+            "request": "launch",
+            "mainClass": "Prog3Ass4",
+            "projectName": "JavaPractices_b67fc64c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog1AAss4",
+            "request": "launch",
+            "mainClass": "Prog1AAss4",
+            "projectName": "JavaPractices_b67fc64c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ass4Prog2",
+            "request": "launch",
+            "mainClass": "Ass4Prog2",
+            "projectName": "JavaPractices_b67fc64c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ass4Prog3",
+            "request": "launch",
+            "mainClass": "Ass4Prog3",
+            "projectName": "JavaPractices_b67fc64c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ass4Prog1",
+            "request": "launch",
+            "mainClass": "Ass4Prog1",
+            "projectName": "JavaPractices_b67fc64c"
+        },
+        {
+            "type": "java",
             "name": "Launch AddBank",
             "request": "launch",
             "mainClass": "Abstractclasses.AddBank",

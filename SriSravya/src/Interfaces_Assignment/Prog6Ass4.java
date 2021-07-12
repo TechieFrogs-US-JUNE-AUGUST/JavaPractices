@@ -1,4 +1,4 @@
-package Interfaces_Assignment;
+
 
 interface A{                            //interface1
     void a1();                          //abstract method

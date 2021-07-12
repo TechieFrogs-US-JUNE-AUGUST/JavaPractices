@@ -1,3 +1,4 @@
+
 abstract class Bank{                  //abstract class
     abstract void getBalance();       //abstract method
 }
