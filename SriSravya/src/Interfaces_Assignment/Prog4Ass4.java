@@ -1,4 +1,4 @@
-
+package Interfaces_Assignment;
 interface Example{
     int a=10;     //the default syntax will be 'public static final a=10 '  
     static int b=20;

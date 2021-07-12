@@ -1,4 +1,4 @@
-
+package Interfaces_Assignment;
 
 interface FastFood{                //interface
     void fries();

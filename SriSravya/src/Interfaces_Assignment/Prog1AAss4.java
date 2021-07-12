@@ -1,4 +1,4 @@
-
+package Interfaces_Assignment;
 import java.util.Scanner;
 
 interface RegularPolygon{                   //interface
