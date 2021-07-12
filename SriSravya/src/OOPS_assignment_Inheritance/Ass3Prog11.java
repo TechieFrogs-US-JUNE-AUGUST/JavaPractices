@@ -5,7 +5,6 @@ class Circle1{                              //parent class
     double radius=1.0;
     String color="Red";
     double area;
-    private double π;
 
     Circle1(){}                       //default constructor
     Circle1(double radius) {}         //constructor with single parameter
@@ -22,7 +21,7 @@ class Circle1{                              //parent class
     void setColor(String color){}         //accessor method to set color
 
     void getArea(){                      //method for calculating Area of circle1
-        area=3.14*(radius*radius);
+        area=(3.14*(radius*radius));
         System.out.println("Area: " +area); 
     }
 } 
@@ -30,7 +29,6 @@ class Cylinder extends Circle1{                    //subclass with inheritance
 double height=1.0;
 double volume;
 double radius;
-private double π;
 
 Cylinder(){}                                //default constructor       
 Cylinder(double radius){                     //constructor with single parameter
@@ -60,7 +58,7 @@ void getVolume(){                     //method  to get the volume
 
 void getArea(){                    //overriding method to get area of cylinder and it also has inheritance rltn
     double area;
-    area = ((2*3.14) * (radius * height))+2*(3.14 * (radius * radius));
+    area = (2*3.14 * radius * height)+(2*3.14 *radius * radius);
     System.out.println("Surface Area is: " +area); 
   }
 
@@ -73,8 +71,8 @@ public class Ass3Prog11 {
         double r=s.nextDouble();                         //creating obj for Circle1
         System.out.print("Enter Height of Cylinder: ");
         double h=s.nextDouble();                         //creating obj for cylinder
-        Circle1 obj=new Circle1(r,"Yellow");        
-        Cylinder obj1=new Cylinder(r,h,"Blue");
+        Circle1 obj=new Circle1(r);        
+        Cylinder obj1=new Cylinder(r,h);
         obj.getArea();                         //calling circle method
         obj1.getArea();                        //calling cylinder method with obj of cylinder
         obj1.getVolume();                      //calling cylinder method with obj of cylinder to get volume of cylinder
