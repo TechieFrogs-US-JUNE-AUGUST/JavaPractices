@@ -1,4 +1,9 @@
 package Inheritance;
+interface Assignment{
+    abstract void method1();
+    abstract void method2();
+    abstract void method3();
+}
 class Apple{
 int number_of_items=10;
 }

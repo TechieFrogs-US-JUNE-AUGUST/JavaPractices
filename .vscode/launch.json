@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CircleCylinder",
+            "request": "launch",
+            "mainClass": "Inheritance.CircleCylinder",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankDeposit",
+            "request": "launch",
+            "mainClass": "BankDeposit",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParentChild",
+            "request": "launch",
+            "mainClass": "Methods.ParentChild",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfacesAssignment7",
+            "request": "launch",
+            "mainClass": "Interfaces.InterfacesAssignment7",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParentAndChildClass",
+            "request": "launch",
+            "mainClass": "Inheritance.ParentAndChildClass",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParentAndChildClass",
+            "request": "launch",
+            "mainClass": "ParentAndChildClass",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfacesAssignment7",
+            "request": "launch",
+            "mainClass": "InterfacesAssignment7",
+            "projectName": "JavaPractices_4f671e82"
+        },
+        {
+            "type": "java",
             "name": "Launch AddBank",
             "request": "launch",
             "mainClass": "Abstractclasses.AddBank",
