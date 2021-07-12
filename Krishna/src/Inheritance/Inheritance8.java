@@ -1,17 +1,16 @@
 package Inheritance;
-class A{
+class A1{
     int i=10,j=20;
-    A(){
-
+    A1(){
     }
     void show()
     {
         System.out.println("the value of i and j is "+i+"  "+j);
     }
 }
-class B extends A{
+class B1 extends A1{
     int k=25;
-    B(){}
+    B1(){}
     void show()
     {
         System.out.println("the value of K is " +k);
@@ -20,7 +19,7 @@ class B extends A{
 public class Inheritance8{
 public static void main(String[] args)
 {
-    B Obj=new B();
+    B1 Obj=new B1();
     Obj.show();
 } 
 }

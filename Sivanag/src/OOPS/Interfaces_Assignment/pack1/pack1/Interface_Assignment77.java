@@ -1,6 +1,6 @@
 package pack1;
 
-import pack2.Interface_Assignment7;
+//import pack2.Interface_Assignment7;
 
 public class Interface_Assignment77  {
     
@@ -11,14 +11,12 @@ public class Interface_Assignment77  {
         {
             System.out.println("Interface 7 method");
         }
-       Innerclass()
+       public Innerclass()
         {
-            I7method();
+            //I7method();
         }
         
 
     }
-   public static void main(String[] args) {
-       
-   }
+ 
 }
