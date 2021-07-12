@@ -3,20 +3,20 @@ abstract class Animals{               //abstract class
     abstract void Dogs();
 }
  class Cats extends Animals{            //inheritance
-    public void Cats(){
+       void Cats(){
        System.out.println("Cats Meow");
     }
                              //need to override both the abstract methods
-   public void Dogs() {
+       void Dogs() {
         
     }
 }
  class Dogs extends Animals{
-     public void Dogs(){
+         void Dogs(){
          System.out.println("Dogs Bark");
      }
                                  //need to override both abstract methods
-    public void Cats() {
+         void Cats() {
 
     }
  }

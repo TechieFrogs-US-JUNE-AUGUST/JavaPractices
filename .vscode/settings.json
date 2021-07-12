@@ -1,6 +1,17 @@
 {
     "java.project.sourcePaths": [
+<<<<<<< HEAD
+        "SriSravya/src",
+        "Sivanag/src/OOPS/Interfaces_Assignment/pack3",
+        "Sivanag/src/OOPS/Interfaces_Assignment/pack1",
+        "Sivanag/src/OOPS/Abstract_Assignment",
+        "Sivanag/src/OOPS/Interfaces_Assignment"
+=======
         "Urmila/src",
-        "Urmila"
+        "Urmila",
+        "Sai/src",
+        "Krishna/src",
+        "Tarak/src"
+>>>>>>> 1a578ef617e6fdc594b5dbff46d678a84b35b7d1
     ]
 }

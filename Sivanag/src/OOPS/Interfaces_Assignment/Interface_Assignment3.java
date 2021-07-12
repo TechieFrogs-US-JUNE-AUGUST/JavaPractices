@@ -1,8 +1,6 @@
-package pack1;
 
-import pack2.Interface_Assignment3;
 
-public class Interface_Assignment33 implements pack2.Interface_Assignment3
+public class Interface_Assignment3 implements pack2.Interface_Assignment3
 
 {
     public void method1()
@@ -18,7 +16,7 @@ public class Interface_Assignment33 implements pack2.Interface_Assignment3
         System.out.println("Interface_Method3");
     }
     public static void main(String[] args) {
-        Interface_Assignment33 obji3 = new Interface_Assignment33();
+        Interface_Assignment3 obji3 = new Interface_Assignment3();
         obji3.method1();
         obji3.method2();
         obji3.method3();
