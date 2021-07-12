@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Abstract_sample",
+            "request": "launch",
+            "mainClass": "Abstract_sample",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface_Assignment8",
+            "request": "launch",
+            "mainClass": "Interface_Assignment8",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface_Assignment1",
+            "request": "launch",
+            "mainClass": "Interface_Assignment1",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface_Assignment2",
+            "request": "launch",
+            "mainClass": "Interface_Assignment2",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface_Assignment7",
+            "request": "launch",
+            "mainClass": "Interface_Assignment7",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface_Assignment78",
+            "request": "launch",
+            "mainClass": "Interface_Assignment78",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface_Assignment33",
+            "request": "launch",
+            "mainClass": "Interface_Assignment33",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface_Assignment4",
+            "request": "launch",
+            "mainClass": "Interface_Assignment4",
+            "projectName": "JavaPractices_5fe55b89"
+        },
+        {
+            "type": "java",
             "name": "Launch AddBank",
             "request": "launch",
             "mainClass": "Abstractclasses.AddBank",

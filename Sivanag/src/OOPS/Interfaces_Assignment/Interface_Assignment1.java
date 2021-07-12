@@ -43,10 +43,11 @@ class EquilateralTriangle implements RegularPolygon
 public class Interface_Assignment1
 
 {
-    Square5 objs5 = new Square5(10);
-    static void totalSides()
+    RegularPolygon objs5 = new Square5(10);
+    RegularPolygon objs51 = new EquilateralTriangle(10);
+    double totalSides()
     {
-
+        return objs5.getNumSides()+objs51.getNumSides();
     }
     double getPerimeter(double length)
     {
@@ -57,8 +58,11 @@ public class Interface_Assignment1
         return (objs5.getNumSides()-2)*objs5.getNumSides();
     }
     public static void main(String[] args) {
-        EquilateralTriangle objer = new EquilateralTriangle(5);
-       
+        //EquilateralTriangle objer = new EquilateralTriangle(5);
+       Interface_Assignment1 obj= new Interface_Assignment1();
+       System.out.println("Total side of shapes :" +obj.totalSides());
+       System.out.println("Total side of shapes :" +obj.getPerimeter(5));
+       System.out.println("Total side of shapes :" +obj.getInteriorAngle());
 
 
     }
