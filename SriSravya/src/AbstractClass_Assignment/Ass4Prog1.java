@@ -1,3 +1,4 @@
+package AbstractClass_Assignment;
 abstract class Parent{
     void message(){}
 }
