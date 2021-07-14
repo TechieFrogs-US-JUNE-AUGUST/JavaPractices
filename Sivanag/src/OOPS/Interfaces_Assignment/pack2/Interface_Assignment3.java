@@ -1,4 +1,6 @@
 package pack2;
+
+//package pack2;
 public interface Interface_Assignment3 {
     void method1();
     void method2();
