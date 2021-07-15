@@ -1,4 +1,4 @@
-package Inheritance;
+package inheritance;
 import Abstractclass.InterfaceDemo;
 
 public class Interface9Demo1 extends InterfaceDemo {

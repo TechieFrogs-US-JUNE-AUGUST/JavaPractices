@@ -1,4 +1,4 @@
-package Inheritance;
+package inheritance;
 class Counter{
     int i;
     void increment()

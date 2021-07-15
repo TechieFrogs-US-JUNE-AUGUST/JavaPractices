@@ -34,7 +34,7 @@ public class StringsPracticeBuffer{
         sBuffer3.append("Checking the Capacity");  // length is 21
         System.out.println(sBuffer3.length()); //21
         System.out.println(sBuffer3.capacity());//21 is more than 16 ((oldcapacity 16*2)+2) =34
-        sBuffer3.delete(0,9);
+        sBuffer3.delete(0,9); //delete the string from 0 - 9 index locations
         System.out.println(sBuffer3);//after delete the string , total string is reduces
         System.out.println(sBuffer3.capacity());// but the capacity wont reduce, it remains same 34.
         // its already created 34, it remains.

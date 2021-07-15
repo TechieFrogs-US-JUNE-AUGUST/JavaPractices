@@ -1,4 +1,4 @@
-package Inheritance;
+package inheritance;
 class Parentclass1{
     private void parentMethod1(){
         System.out.println("This is Parent Class");
