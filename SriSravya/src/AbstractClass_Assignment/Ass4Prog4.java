@@ -1,3 +1,4 @@
+package AbstractClass_Assignment;
 abstract class AbstractClass{
     AbstractClass(){                        //constructor
         System.out.println("This is constructor of abstract class");

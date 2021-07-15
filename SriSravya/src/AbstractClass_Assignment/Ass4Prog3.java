@@ -1,3 +1,4 @@
+package AbstractClass_Assignment;
 abstract class Marks{               //abstract class
     abstract float getPercentage();
 }

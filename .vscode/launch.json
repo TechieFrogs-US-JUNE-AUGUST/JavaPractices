@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Astring19",
+            "request": "launch",
+            "mainClass": "Astring19",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring16",
+            "request": "launch",
+            "mainClass": "Astring16",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring15",
+            "request": "launch",
+            "mainClass": "Astring15",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring14",
+            "request": "launch",
+            "mainClass": "Astring14",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring13",
+            "request": "launch",
+            "mainClass": "Astring13",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring12",
+            "request": "launch",
+            "mainClass": "Astring12",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring7",
+            "request": "launch",
+            "mainClass": "Astring7",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring6",
+            "request": "launch",
+            "mainClass": "Astring6",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring5",
+            "request": "launch",
+            "mainClass": "Astring5",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring3",
+            "request": "launch",
+            "mainClass": "Astring3",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring1",
+            "request": "launch",
+            "mainClass": "Astring1",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
             "name": "Launch StringsPracticeBuffer",
             "request": "launch",
             "mainClass": "StringsPracticeBuffer",
