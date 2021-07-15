@@ -16,8 +16,8 @@ public class String10
             char randomChar=str.charAt(index); //get character specified by indexfrom  str
             sb.append(randomChar);//Append character to StringBuilder
         }
-        String randomString=sb.toString();
-        System.out.println("Random String is : " +randomString); // o/p will be differnt every time u run the prog
+        
+        System.out.println("Random String is : " +sb.toString()); // o/p will be differnt every time u run the prog
     }
     
 }

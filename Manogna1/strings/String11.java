@@ -18,8 +18,8 @@ public class String11 {
             sb.append(randomChar);//Append character to StringBuilder
         }
 
-        String randomalphaNumeric=sb.toString();
-        System.out.println("Random AphaNumeric : " +randomalphaNumeric);//Every time we run the program we get diff o/p
+        
+        System.out.println("Random AphaNumeric : " +sb.toString());//Every time we run the program we get diff o/p
     }
     
 }
