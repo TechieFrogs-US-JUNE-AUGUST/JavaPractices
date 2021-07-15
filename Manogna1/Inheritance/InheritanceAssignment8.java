@@ -1,4 +1,4 @@
-package Inheritance;
+package inheritance;
 class A{
     int i=20,j=30;
 A(){

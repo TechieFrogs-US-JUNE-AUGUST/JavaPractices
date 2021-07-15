@@ -1,3 +1,4 @@
+package AbstractClass_Assignment;
 abstract class Animals{               //abstract class
     abstract void Cats();             //abstract method
     abstract void Dogs();

@@ -1,3 +1,4 @@
+package AbstractClass_Assignment;
 abstract class Shape{                                     //abstract class
     abstract void RectangleArea(double length,double breadth);    //abstract methods with parameters
     abstract void SquareArea(double side);

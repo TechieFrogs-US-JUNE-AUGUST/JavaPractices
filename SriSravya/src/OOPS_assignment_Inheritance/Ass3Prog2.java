@@ -1,6 +1,6 @@
 package OOPS_assignment_Inheritance;
 class Parent1{ 
-   private void parentmethod(){
+   private void parentmethod(){                          //if we give private we can't access it outside the class
         System.out.println("This is Parent method");
     }
 }
