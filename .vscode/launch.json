@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Astring23",
+            "request": "launch",
+            "mainClass": "Astring23",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring22",
+            "request": "launch",
+            "mainClass": "Astring22",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring20",
+            "request": "launch",
+            "mainClass": "Astring20",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
             "name": "Launch Astring19",
             "request": "launch",
             "mainClass": "Astring19",
