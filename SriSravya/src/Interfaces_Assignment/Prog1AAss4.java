@@ -49,7 +49,7 @@ public class Prog1AAss4{
         System.out.println("Enter side of Square: ");
         double s=scan.nextDouble();
 
-        EquilateralTriangle T = new EquilateralTriangle(l);                 //subclass obj of triangle with parameter
+        EquilateralTriangle T=new EquilateralTriangle(l);                 //subclass obj of triangle with parameter
         System.out.println("Number of sides of a triangle: "+T.getNumSides());
         System.out.println("Length of sides of a triangle: "+T.getSideLength());
         System.out.println("Perimeter of the triangle: "+T.getPerimeter());
