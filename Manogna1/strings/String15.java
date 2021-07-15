@@ -15,6 +15,7 @@ public class String15 {
         System.out.println("Frst Letter " +firstLetter);
         str=firstLetter+remainingLetters; // add the two substrings
         System.out.println("String : " +str); // Print the String
+        sc.close();
     
     }
 }
