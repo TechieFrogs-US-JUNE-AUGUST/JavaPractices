@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StringsPracticeBuffer",
+            "request": "launch",
+            "mainClass": "StringsPracticeBuffer",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringsPractice2",
+            "request": "launch",
+            "mainClass": "StringsPractice2",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaConMeth",
+            "request": "launch",
+            "mainClass": "AreaConMeth",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringsPractice",
+            "request": "launch",
+            "mainClass": "StringsPractice",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface5",
+            "request": "launch",
+            "mainClass": "Interface5",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface6",
+            "request": "launch",
+            "mainClass": "Interface6",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface4",
+            "request": "launch",
+            "mainClass": "Interface4",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Patterns3",
+            "request": "launch",
+            "mainClass": "Patterns3",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Patterns1",
+            "request": "launch",
+            "mainClass": "Patterns1",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Patterns1",
+            "request": "launch",
+            "mainClass": "DifferentPat.Patterns1",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Patterns1",
+            "request": "launch",
+            "mainClass": "Patterns.Patterns1",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shapes",
+            "request": "launch",
+            "mainClass": "Shapes",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area1",
+            "request": "launch",
+            "mainClass": "Area1",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoDistance",
+            "request": "launch",
+            "mainClass": "AddTwoDistance",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstract4",
+            "request": "launch",
+            "mainClass": "Abstract4",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
             "name": "Launch employee9",
             "request": "launch",
             "mainClass": "employee9",

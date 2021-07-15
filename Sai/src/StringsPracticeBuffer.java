@@ -4,8 +4,11 @@ public class StringsPracticeBuffer{
         StringBuffer sBuffer1 = new StringBuffer("String Buffer");
         StringBuffer sBuffer2 = new StringBuffer(32);// capacity by default its 16 
         System.out.println(sBuffer);
+        System.out.println(sBuffer.capacity());
         System.out.println(sBuffer1);
+        System.out.println(sBuffer1.capacity());
         System.out.println(sBuffer2);
+        System.out.println(sBuffer2.capacity());
         sBuffer.append("Mutable");//appending is - adding the string, same as concatination in strings
         System.out.println("sBuffer");
 
