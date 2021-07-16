@@ -4,7 +4,7 @@ public class Asssignment9 {
     char[] String2Char(String s)
     {
         char ch[] = new char[s.length()];
-        for(int i=0;i<=s.length();i++)
+        for(int i=0;i<s.length();i++)
         {
             ch[i]=s.charAt(i);
 
@@ -13,35 +13,74 @@ public class Asssignment9 {
 
     }
     public static void main(String[] args) {
-        String ss ="Race";
+        String ss ="Raca";
         String ss1 ="Care";
         Asssignment9 obj9= new Asssignment9();
         char c[]=obj9.String2Char(ss);
         char c1[]=obj9.String2Char(ss1);
-        char chk;
         if(c.length==c1.length)
         {
             int hh=0;
-        for(int j=0;j<c.length;j++)
+            int kk=0;
+            int hh1=0;
+        for(int j1=0;j1<c.length;j1++)
         {
-            
-            for(int k=0;k<c1.length;k++)
+             
+             if(((Character.isUpperCase(c[j1]) && (Character.isUpperCase(c1[j1])))) || ((Character.isLowerCase(c[j1]) && (Character.isLowerCase(c1[j1])))))
+                {
+                    //System.out.println("True");
+                  
+                }else
+                {
+                    kk=1;
+             System.out.println("Given Strings are not Anagram");
+             break;
+                }
+            } 
+            if(kk==0)
             {
-                    if(c[j]==c1[k])
+              //----------------------------------------  
+            for(int j=0;j<c.length;j++)
+            {
+                  for(int k=0;k<c1.length;k++)
+                 {
+                    //System.out.println(c[j] +" " +Character.toUpperCase(c1[k]) + " " +Character.toLowerCase(c1[k]));
+                    if((c[j]==Character.toUpperCase(c1[k])) || (c[j]==Character.toLowerCase(c1[k])))
                     {
-                        hh++;
+                    hh++;
                     break;
-                    }else
-                    if(Character.isUpperCase(c[j]))
+                    //System.out.println("h:" +hh);
+                    }
+                 }
+                }
+                 //----------------------------------------  
+
+                 for(int l=0;l<c.length;l++)
+                 {
+                     for(int m=0;m<c.length;m++)
+                     {
+                        if((c1[l]==Character.toUpperCase(c[m])) || (c1[l]==Character.toLowerCase(c[m])))
                         {
-                            chk=Character.toLowerCase(c[j]);
+                        hh1++;
+                        break;
+                        //System.out.println("h:" +hh);
                         }
-            }
-
-        }
-    }
-    }
+                        
+                     }
+                 }
+                    
+                  //----------------------------------------  
       
-
-
+        //System.out.println(hh + " " + c.length +" " +hh1);
+        if(hh==c.length && c.length==hh1)
+                System.out.println("Given Strings are Anagram");
+                else
+                System.out.println("Given Strings are not Anagram");
+    }
+}
+      
+    else
+    System.out.println("Given Strings are not Anagram");
+//}
+}
 }
