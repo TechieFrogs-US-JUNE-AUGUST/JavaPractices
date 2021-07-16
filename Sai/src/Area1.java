@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Area{
+public class Area1{     
     void setDim(){           //method for giving dimensions
         Scanner dim = new Scanner(System.in);        //open the scanner
         System.out.print("Give the rectangle length : ");
@@ -13,7 +13,7 @@ class Area{
         return(length*width);          // calculating the area by lenth and width
     }
     public static void main(String[] args){
-        Area Obj = new Area();       // creating instance
+        Area1 Obj = new Area1();       // creating instance
         Obj.setDim();                //calling method to get dimension
     }
 }
