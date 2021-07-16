@@ -1,7 +1,7 @@
 
-/*  public class StringBufferandStringBuilder {
+  public class StringBufferandStringBuilder {
     public static void main(String[] args) {
-      StringBuffer sb=new StringBuffer("Team");
+      StringBuffer sb=new StringBuffer("TeamHR");
     System.out.println(sb.length());          //4
     System.out.println(sb.capacity());        //20...default is 16 when we create empty string, but here I have given string value with 4 letters so 16+4=20 i.e,capacity increases by string lenght
       System.out.println(sb.append(" HelloAll"));          //we can add new string to the existing string with using stringbuffer append
@@ -30,7 +30,7 @@
 //STring bulider is non-synchronisized one and is faster compare to StringBuffer     
 
 
-*/
+
 
 
 //Without using toString() method
