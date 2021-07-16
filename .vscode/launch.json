@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StringSwap",
+            "request": "launch",
+            "mainClass": "StringSwap",
+            "projectName": "JavaPractices_6482378e"
+        },
+        {
+            "type": "java",
             "name": "Launch Astring19",
             "request": "launch",
             "mainClass": "Astring19",
