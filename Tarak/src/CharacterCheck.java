@@ -1,5 +1,4 @@
 
-package Tarak;
 import java.util.Scanner;
 
 public class CharacterCheck {
