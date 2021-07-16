@@ -6,69 +6,10 @@
     "configurations": [
         {
             "type": "java",
-<<<<<<< HEAD
             "name": "Launch StringSwap",
             "request": "launch",
             "mainClass": "StringSwap",
             "projectName": "JavaPractices_6482378e"
-=======
-<<<<<<< HEAD
-            "name": "Launch Amstrong",
-            "request": "launch",
-            "mainClass": "Amstrong",
-            "projectName": "JavaPractices_b32c46b9"
-        },
-        {
-            "type": "java",
-            "name": "Launch StringsAssignment13",
-            "request": "launch",
-            "mainClass": "StringsAssignment.StringsAssignment13",
-            "projectName": "JavaPractices_b32c46b9"
-        },
-        {
-            "type": "java",
-            "name": "Launch StringsAssignment12",
-            "request": "launch",
-            "mainClass": "StringsAssignment.StringsAssignment12",
-            "projectName": "JavaPractices_b32c46b9"
-        },
-        {
-            "type": "java",
-=======
-<<<<<<< HEAD
-            "name": "Launch Astring23",
-            "request": "launch",
-            "mainClass": "Astring23",
-            "projectName": "JavaPractices_b56d4ef5"
-        },
-        {
-            "type": "java",
-            "name": "Launch Astring22",
-            "request": "launch",
-            "mainClass": "Astring22",
-            "projectName": "JavaPractices_b56d4ef5"
-        },
-        {
-            "type": "java",
-            "name": "Launch Astring20",
-            "request": "launch",
-            "mainClass": "Astring20",
-            "projectName": "JavaPractices_b56d4ef5"
-=======
->>>>>>> 0bdda6b93543bfb91473b00b2df1316de83e5ced
-            "name": "Launch Area",
-            "request": "launch",
-            "mainClass": "Area",
-            "projectName": "JavaPractices_7f0ba99e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Area1",
-            "request": "launch",
-            "mainClass": "Area1",
-            "projectName": "JavaPractices_7f0ba99e"
->>>>>>> d84d2e1c27d0e25d15e28e145882f57e0040d4d2
->>>>>>> 38fd7fd5721ff01f2f43df079a4b43073d41de63
         },
         {
             "type": "java",

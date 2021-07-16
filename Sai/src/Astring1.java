@@ -28,7 +28,6 @@ public class Astring1{
         String str = sc.nextLine();
         //String str = "Strings Assignment1";
         countValues(str);
-        sc.close();
-    }  
+    }
 }
  
