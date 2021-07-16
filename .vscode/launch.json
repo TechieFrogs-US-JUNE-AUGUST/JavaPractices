@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Amstrong",
+            "request": "launch",
+            "mainClass": "Amstrong",
+            "projectName": "JavaPractices_b32c46b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringsAssignment13",
+            "request": "launch",
+            "mainClass": "StringsAssignment.StringsAssignment13",
+            "projectName": "JavaPractices_b32c46b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringsAssignment12",
+            "request": "launch",
+            "mainClass": "StringsAssignment.StringsAssignment12",
+            "projectName": "JavaPractices_b32c46b9"
+        },
+        {
+            "type": "java",
             "name": "Launch Area",
             "request": "launch",
             "mainClass": "Area",
