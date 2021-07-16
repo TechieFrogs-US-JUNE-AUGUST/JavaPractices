@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Average{
+public class Average{
     int a,b,c;
     static double calculate(int a ,int b,int c){     //method with datatype int variables
         double ave = 0;          // for average we will get .00 , so we need to give double
