@@ -1,6 +1,5 @@
+//Convert Every Word of a string to Uppercase
 package Strings;
-
-
 public class Assignment16 {
     public static void main(String[] args) {
         

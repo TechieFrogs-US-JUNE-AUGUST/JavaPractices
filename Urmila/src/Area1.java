@@ -1,4 +1,3 @@
-import org.graalvm.compiler.lir.aarch64.AArch64AtomicMove.AtomicReadAndWriteOp;
 
 public class Area1 {
   int lenght, breadth;

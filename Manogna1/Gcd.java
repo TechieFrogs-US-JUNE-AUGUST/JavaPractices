@@ -4,11 +4,6 @@ public class Gcd {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter First value");
         int num1=sc.nextInt();
-        //Scanner sc1=new Scanner(System.in);
-        //System.out.println("Enter First value");
-        //while(num1!=sc.nextInt()) {
-        //    System.out.println("Not a Number Enter a Value");
-       // }
         System.out.println("Enter Second value");
         int num2=sc.nextInt();
         while(num1!=num2) {
@@ -19,5 +14,6 @@ public class Gcd {
         }
 
        System.out.println("GCD of Given Number is :"+num2);
+       sc.close();
     }
 }

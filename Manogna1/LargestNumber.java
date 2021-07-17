@@ -9,17 +9,18 @@ public class LargestNumber {
         Scanner sc=new Scanner(System.in);
         number1=sc.nextInt();
         System.out.println("Enter Second number" );
-        Scanner input=new Scanner(System.in);
-        number2=input.nextInt();
+        //Scanner input=new Scanner(System.in);
+        number2=sc.nextInt();
         System.out.println("Enter Third Number");
-        Scanner sc1=new Scanner(System.in);
-        number3=sc1.nextInt();
+        //Scanner sc1=new Scanner(System.in);
+        number3=sc.nextInt();
         if(number1>=number2  && number1>=number3)
             System.out.println(number1+ "is the largest Number");
         else if(number2>=number1 && number2>=number3)
             System.out.println(number2+ "is the largest number");
         else
             System.out.println(number3+ "is the largest number");
+            sc.close();
 
     }
 }

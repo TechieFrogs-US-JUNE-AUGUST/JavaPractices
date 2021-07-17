@@ -1,9 +1,6 @@
+//Check if string is a valid Shuffle of two strings
 package Strings;
-
 import java.util.Arrays;
-
-
-
 public class Assignment21 {
     String sortstring(String c)
     {

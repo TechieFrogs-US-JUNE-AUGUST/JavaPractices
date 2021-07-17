@@ -1,9 +1,7 @@
+//Capitalize the first character of each word of string
 package Strings;
-
-
 public class Assignment15 {
     public static void main(String[] args) {
-        
         String st="i am sivanag";
         String st2= "";
     //tringBuffer stb = new StringBuffer("i am sivanag");
