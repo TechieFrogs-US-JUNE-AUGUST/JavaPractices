@@ -1,25 +1,20 @@
+//Count the Total Number of Vowels,Digits,Spaces,Consonants
 package Strings;
-
 import java.util.Scanner;
-
 public class Assignment1
 {
-    Boolean IsAlphabet(char ch)
+    Boolean IsAlphabet(char ch)                                                        //Method to check character is Alphabet or Not 
     {
-
-        
-        if( (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
+       if( (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
            return true;
         else
            return false;
     }
-
-
-    
+  
     public static void main(String[] args) {
-                    Scanner sc = new Scanner(System.in);
+                    Scanner scannerObject = new Scanner(System.in);
                     System.out.println("Enter the Sentence: ");
-                    String s=sc.nextLine();
+                    String s=scannerObject.nextLine();
                      //String s= "This is sivanag 1223588";
                      System.out.println(s.length());
                      //System.out.println(s.charAt(2));
@@ -30,15 +25,15 @@ public class Assignment1
                      Assignment1 obja=new Assignment1();
                      for(int i=0;i<s.length();i++)
                      {
-                        if(Character.isDigit(s.charAt(i)))
+                        if(Character.isDigit(s.charAt(i)))                              //if condition to check character is digits or not
                         num++;
-                        if(Character.isWhitespace(s.charAt(i)))
+                        if(Character.isWhitespace(s.charAt(i)))                         //if condition to check character is space or not
                         sp++;
-                        if(obja.IsAlphabet(s.charAt(i)))
+                        if(obja.IsAlphabet(s.charAt(i)))                                //Alphaber check
                         {
-                        switch(s.charAt(i))
+                        switch(s.charAt(i))                                             //switch to check character is Vowel or consonants
                         {
-                            case 'a','e','i','o','u','A','E','I','O','U' : v++;
+                            case 'a','e','i','o','u','A','E','I','O','U' : v++;         
                                                                             break;
                             default : cons++;
                             break;
@@ -51,7 +46,7 @@ public class Assignment1
                      System.out.println("Total Number of Spaces in Given Sentence is : " + sp);
                      System.out.println("Total Number of Vowels in Given Sentence is : " + v);
                      System.out.println("Total Number of Consonants in Given Sentence is : " + cons);
-                     sc.close();
+                     scannerObject.close();
     }
 
     

@@ -1,5 +1,5 @@
+//Clear the StringBuffer using string length
 package Strings;
-
 public class Assignment13 {
     public static void main(String[] args) {
         StringBuffer stb = new StringBuffer();

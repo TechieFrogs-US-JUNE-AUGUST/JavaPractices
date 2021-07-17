@@ -1,5 +1,5 @@
+//check two strings are anagram
 package Strings;
-
 public class Asssignment9 {
     char[] String2Char(String s)
     {

@@ -1,5 +1,5 @@
+//Compare strings and string objects using "== "and  "equalto"
 package Strings;
-
 public class Assignment567 {
         public static void main(String[] args) {
             String str1 = "Sivanag";
