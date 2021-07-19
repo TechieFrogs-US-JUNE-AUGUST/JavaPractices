@@ -1,6 +1,6 @@
 //check two strings are anagram
 package Strings;
-public class Asssignment9 {
+public class Assignment9 {
     char[] String2Char(String s)
     {
         char ch[] = new char[s.length()];
@@ -15,7 +15,7 @@ public class Asssignment9 {
     public static void main(String[] args) {
         String ss ="Raca";
         String ss1 ="Care";
-        Asssignment9 obj9= new Asssignment9();
+        Assignment9 obj9= new Assignment9();
         char c[]=obj9.String2Char(ss);
         char c1[]=obj9.String2Char(ss1);
         if(c.length==c1.length)
