@@ -1,9 +1,6 @@
+//create Random Alphanumeric string(using stringBuilder)
 package Strings;
-
 import java.util.Random;
-
-
-
 public class Assignment11 {
     public static void main(String[] args) {
             String st = "//\' ##$afdsfbba23676575";
@@ -24,10 +21,6 @@ public class Assignment11 {
                 else
                 i--;
             }
-
             System.out.println(build);
-
     }
-
-
 }

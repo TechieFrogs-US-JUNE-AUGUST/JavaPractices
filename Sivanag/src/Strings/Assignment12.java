@@ -1,5 +1,5 @@
+//Clear String Buffer
 package Strings;
-
 public class Assignment12 {
     public static void main(String[] args) {
         StringBuffer stb =new StringBuffer("Hello every one");
