@@ -1,4 +1,4 @@
-package STRINGS;
+package strings;
 
 public class Stringiteratecharaceachloop 
 {
@@ -7,7 +7,7 @@ public class Stringiteratecharaceachloop
         String name = "String method";      // creating a string
         System.out.println("characters in "+ name + "are");
 
-        for(char ch : name.toCharAt())
+        for(char ch : name.toCharArray())
         {
             System.out.print( ch +",");
 
