@@ -9,11 +9,11 @@ public class Prog10 {
 
         int length=7;                                //specifying length
         for(int i=0; i<length; i++){
-            int index= obj.nextInt(s.length());      //generate random index num
+            int index= obj.nextInt(s.length());      //generating random index num
             char randomChar= s.charAt(index);        //get character specified by index from the string
-            sb.append(randomChar);                  //append char to stringbuilder
+            sb.append(randomChar);                  //appending char to stringbuilder
         }
         String randomString = sb.toString();
-        System.out.println("Random String is: " +randomString);
+        System.out.println("Random String is: " +randomString);         // o/p will be different each time
     }
 }
