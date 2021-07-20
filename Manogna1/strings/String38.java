@@ -2,7 +2,7 @@ package strings;
 
 public class String38 {
     public static void main(String[] args) {
-        String str="Strings Assignment Strings";
+        String str="Strings Assignment Strings ";
         str=str.toLowerCase();
        
         String words[]=str.split(" ");//Splits the string into words using build in fnctn
