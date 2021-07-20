@@ -1,7 +1,6 @@
+//Clear the StringBuffer using create new object
 package Strings;
-
 public class Assignment14 {
-
 public static void main(String[] args) {
     StringBuffer stb = new StringBuffer("Hi Every one ");
     stb.append("Good Morning");

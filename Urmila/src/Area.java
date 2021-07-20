@@ -11,7 +11,7 @@ public class Area {
 class AddArea{
     public static void main(String[] args)
     {
-        Scanner s = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         int l,b;
 System.out.println("Enter lenght");
 l = s.nextInt();

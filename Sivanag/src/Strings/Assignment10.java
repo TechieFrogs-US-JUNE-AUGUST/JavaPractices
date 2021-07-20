@@ -1,5 +1,5 @@
+//Create Random Strings using String Builder
 package Strings;
-//Generate Random AlphabetStrings 
 public class Assignment10 {
     public static void main(String[] args) {
             String st= "ABCDEFGHIJKabcdefghijk778789";

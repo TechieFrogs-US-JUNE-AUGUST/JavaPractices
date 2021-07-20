@@ -11,6 +11,8 @@ public class EvenOrOdd {
             System.out.println("Even Number ");
             else
             System.out.println("Odd Number");
+            input.close();
 
     }
+
 }
