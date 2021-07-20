@@ -1,4 +1,4 @@
-package STRINGS;
+package strings;
 
 public class Compareequals2
  {

@@ -2,7 +2,7 @@
 package Strings;
 import java.util.Scanner;
 
-public class Asssignment8 {
+public class Assignment8 {
     public static void main(String[] args) {
 
         Scanner scannerObject = new Scanner(System.in);

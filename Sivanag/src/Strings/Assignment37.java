@@ -14,8 +14,7 @@ public class Assignment37 {
                         c=1;
                         string=string.substring(0, j)+string.substring((j+1));
                         //System.out.println(string);
-                        
-                     j--;                 
+                        j--;                 
                     }
                     
                 }
