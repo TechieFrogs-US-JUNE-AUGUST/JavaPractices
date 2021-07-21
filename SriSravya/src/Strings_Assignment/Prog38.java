@@ -1,3 +1,4 @@
+//TO FIND THE DUPLICATE WORDS IN A STRING
 package Strings_Assignment;
 
 public class Prog38 {

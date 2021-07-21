@@ -1,3 +1,4 @@
+//TO SEPERATE THE INDIVIDUAL CHAR FROM A STRING
 package Strings_Assignment;
 
 public class Prog43 {

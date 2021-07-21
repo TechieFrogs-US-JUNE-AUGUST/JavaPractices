@@ -1,3 +1,4 @@
+//ITERATE THROUGH RACH CHAR OF THE USING USING FOR LOOP
 package Strings_Assignment;
 
 public class Prog17 {

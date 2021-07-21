@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Prog21",
+            "request": "launch",
+            "mainClass": "Strings_Assignment.Prog21",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog_29",
+            "request": "launch",
+            "mainClass": "Strings_Assignment.Prog_29",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog29",
+            "request": "launch",
+            "mainClass": "Strings_Assignment.Prog29",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog28",
+            "request": "launch",
+            "mainClass": "Strings_Assignment.Prog28",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog8",
+            "request": "launch",
+            "mainClass": "Strings_Assignment.Prog8",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
             "name": "Launch Prog27",
             "request": "launch",
             "mainClass": "Strings_Assignment.Prog27",
