@@ -1,3 +1,4 @@
+//TO COUNT THE TOTAL NUMBER OF CHAR IN STRING 
 package Strings_Assignment;
 
 public class Prog22 {

@@ -1,3 +1,4 @@
+//TO CHECK WHETHER ONE STRING IS ROTATION OF ANOTHER
 package Strings_Assignment;
 
 public class Prog34 {

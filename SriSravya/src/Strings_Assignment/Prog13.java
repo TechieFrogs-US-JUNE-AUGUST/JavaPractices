@@ -1,3 +1,4 @@
+//TO CLEAR THE STRING BUFFER USING SETLENGTH() METHOD
 package Strings_Assignment;
 
 public class Prog13 {

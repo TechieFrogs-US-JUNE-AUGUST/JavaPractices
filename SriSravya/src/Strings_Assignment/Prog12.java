@@ -1,3 +1,4 @@
+//TO CLEAR THE STRING BUFFER
 package Strings_Assignment;
 
 public class Prog12 {

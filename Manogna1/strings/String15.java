@@ -8,6 +8,7 @@ public class String15 {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter a String ");
         String str=sc.next();
+        str=str.toLowerCase(); //Convert every character to string
         String firstLetter= str.substring(0,1); //contains First letter of the string
         System.out.println("First Letter :" +firstLetter);
         String remainingLetters=str.substring(1,str.length()); //contains Remaining letters of the string
