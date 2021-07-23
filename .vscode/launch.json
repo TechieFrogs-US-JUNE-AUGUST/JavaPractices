@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArraysMultidimensional",
+            "request": "launch",
+            "mainClass": "ArraysMultidimensional",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectsAndMethods",
+            "request": "launch",
+            "mainClass": "ObjectsAndMethods",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog9and25",
+            "request": "launch",
+            "mainClass": "Strings_Assignment.Prog9and25",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
             "name": "Launch Prog21",
             "request": "launch",
             "mainClass": "Strings_Assignment.Prog21",
