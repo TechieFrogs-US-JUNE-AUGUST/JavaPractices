@@ -6,7 +6,46 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch Assignment11",
+=======
+            "name": "Launch ArrayMatrices",
+            "request": "launch",
+            "mainClass": "ArrayMatrices",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysMultidimensional2",
+            "request": "launch",
+            "mainClass": "ArraysMultidimensional2",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysMultidimensional",
+            "request": "launch",
+            "mainClass": "ArraysMultidimensional",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectsAndMethods",
+            "request": "launch",
+            "mainClass": "ObjectsAndMethods",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog9and25",
+            "request": "launch",
+            "mainClass": "Strings_Assignment.Prog9and25",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog21",
+>>>>>>> 47daae84c71827a2bc68e921c3599b7783b7be03
             "request": "launch",
             "mainClass": "Arrays_Assignment.Assignment11",
             "projectName": "JavaPractices_5fe55b89"

@@ -13,7 +13,5 @@ public class NaturalNumbers {
         sc.close();
     }
 
-
-
     }
 
