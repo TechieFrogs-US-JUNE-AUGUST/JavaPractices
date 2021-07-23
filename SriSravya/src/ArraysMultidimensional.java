@@ -1,10 +1,9 @@
 import java.util.Scanner;
-
-/*    public class ArraysMultidimensional {
+    public class ArraysMultidimensional {
     public static void main(String[] args) {
-       // int multiArray[2][3];                                   //declaration of multidimensional array
-      //  int multiArray[][]= new int[2][3];                       //using instance declaration
-        int multiArray[][]= {{0,1,2}, {3,4,5}, {6,7,8}};           //we can declare like this also
+      //  int multiArray[2][3];                                   //declaration of multidimensional array
+        int multiArray[][]= new int[2][3];                       //using instance declaration
+       // int multiArray[][]= {{0,1,2}, {3,4,5}, {6,7,8}};           //we can declare like this also
         multiArray[0][0]= 1;
         multiArray[0][1]= 2;
         multiArray[0][2]= 3;
@@ -19,7 +18,7 @@ import java.util.Scanner;
             System.out.println();
     }
   }
-}        */ 
+}        
 
 
 //USING SCANNERS FOR INPUT FROM USER
@@ -74,7 +73,7 @@ import java.util.Scanner;
 
 
 //JAGGED ARRAY---having different number of columns
-public class ArraysMultidimensional{
+/*public class ArraysMultidimensional{
     public static void main(String[] args) {
         Scanner scannerObj= new Scanner(System.in);
         
@@ -97,7 +96,7 @@ public class ArraysMultidimensional{
                 System.out.println();
             }
     }
-}           
+}     */      
 
 
 

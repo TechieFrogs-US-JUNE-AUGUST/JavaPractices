@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayMatrices",
+            "request": "launch",
+            "mainClass": "ArrayMatrices",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysMultidimensional2",
+            "request": "launch",
+            "mainClass": "ArraysMultidimensional2",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
             "name": "Launch ArraysMultidimensional",
             "request": "launch",
             "mainClass": "ArraysMultidimensional",
