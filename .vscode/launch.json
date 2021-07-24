@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Arrays15",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays15",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays14",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays14",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays13",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays13",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays12",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays12",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays11",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays11",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays10",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays10",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays9",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays9",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays8",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays8",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays7",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays7",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays6",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays6",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays5",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays5",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays4",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays4",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays3",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays3",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays2",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays2",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays1",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Arrays1",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog1",
+            "request": "launch",
+            "mainClass": "Arrays_Assignment.Prog1",
+            "projectName": "JavaPractices_a3674465"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayMatrices",
             "request": "launch",
             "mainClass": "ArrayMatrices",
