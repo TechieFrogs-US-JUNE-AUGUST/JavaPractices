@@ -3,7 +3,7 @@ package arrays;
 
 public class Arrays14 {
     public static void main(String[] args) {
-        int array[]=new int[]{35,54,75,11,21};
+        int array[]={35,54,75,11,21};
         int temporary=0; //Assign a temporary variable with 0
         System.out.println("Array in Ascending order :");
         for(int i=0;i<array.length;i++)

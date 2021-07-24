@@ -2,7 +2,7 @@ package arrays;
 
 public class Arrays10 {
     public static void main(String[] args) {
-        int array[]=new int[]{33,44,55,66,77,93};
+        int array[]={33,44,55,66,77,93};
         int minimum=array[0];//assign first element of an array with minimum
         for(int i=0;i<array.length;i++)
         {
