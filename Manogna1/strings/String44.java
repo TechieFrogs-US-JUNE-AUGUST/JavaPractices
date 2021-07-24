@@ -1,6 +1,6 @@
 package strings;
 
-public class String44 {
+public class String44 {//Swapping two strings without using third variable
     public static void main(String[] args) {
         String str1="Strings";
         String str2="Assignment";

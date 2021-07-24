@@ -1,5 +1,5 @@
+//Check if string contains a substring using indexOf()
 package Strings;
-
 public class Assignment20 {
     public static void main(String[] args) {
         String st="What are you doing";
@@ -16,8 +16,5 @@ public class Assignment20 {
             System.out.println("you : " + "True");
             else
             System.out.println("you : " + "False");
-    }
-    
-
-    
+    }  
 }

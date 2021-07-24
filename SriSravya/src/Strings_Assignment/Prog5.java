@@ -1,3 +1,4 @@
+//COMPARE STRINGS USING ==
 package Strings_Assignment;
 import java.util.Scanner;
 

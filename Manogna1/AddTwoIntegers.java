@@ -8,13 +8,13 @@ public class AddTwoIntegers {
 
         int number1,number2,sum;
         Scanner sc= new Scanner(System.in);
-        System.out.println("Enter First Number");
+        System.out.println("Enter First Number"); // First Number
         number1=sc.nextInt();
-        System.out.println("Enter Second Number");
+        System.out.println("Enter Second Number"); //Second number
         number2=sc.nextInt();
-        sc.close();
-        sum=number1+number2;
+        sum=number1+number2; //add first number and second number
         System.out.println("Sum of these numbers "+sum);
+        sc.close();
 
     }
 }

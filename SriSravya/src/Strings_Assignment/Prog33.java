@@ -1,3 +1,4 @@
+//TO CHECK WHETHER THE GIVEN STRING IS PALINDROME 
 package Strings_Assignment;
 
 public class Prog33 {

@@ -1,3 +1,4 @@
+//COMPARE STRING OBJECTS USING ==
 package Strings_Assignment;
 
 public class Prog7 {

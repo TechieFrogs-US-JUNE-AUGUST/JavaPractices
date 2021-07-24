@@ -1,3 +1,4 @@
+//CAPITILISE THE FIRST CHAR OF EACH WORD IN A STRING
 package Strings_Assignment;
 
 public class Prog15 {

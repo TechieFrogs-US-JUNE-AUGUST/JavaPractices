@@ -1,3 +1,4 @@
+//TO REPLACE THE SPACES OF THE STRING WITH A SPECIFIC CHAR
 package Strings_Assignment;
 
 public class Prog32 {

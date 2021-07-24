@@ -1,5 +1,5 @@
+//Check if string contains a substring using contains()
 package Strings;
-
 public class Assignment19 {
     public static void main(String[] args) {
         String st ="How are you";

@@ -1,3 +1,4 @@
+//TO CHECK IF A STRING CONTAINS SUBSTRING USING CONTAINS()
 package Strings_Assignment;
 
 public class Prog19 {
