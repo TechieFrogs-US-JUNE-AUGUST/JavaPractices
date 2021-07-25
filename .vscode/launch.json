@@ -6,6 +6,223 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Array22Sub",
+            "request": "launch",
+            "mainClass": "Array22Sub",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array13RightRotate",
+            "request": "launch",
+            "mainClass": "Array13RightRotate",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array21Sort",
+            "request": "launch",
+            "mainClass": "Array21Sort",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array20OddEven",
+            "request": "launch",
+            "mainClass": "Array20OddEven",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array18Smallest2nd",
+            "request": "launch",
+            "mainClass": "Array18Smallest2nd",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array17Largest2nd",
+            "request": "launch",
+            "mainClass": "Array17Largest2nd",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array16Largest3rd",
+            "request": "launch",
+            "mainClass": "Array16Largest3rd",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array15Descending",
+            "request": "launch",
+            "mainClass": "Array15Descending",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array14Sort",
+            "request": "launch",
+            "mainClass": "Array14Sort",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array12Sum",
+            "request": "launch",
+            "mainClass": "Array12Sum",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array11Length",
+            "request": "launch",
+            "mainClass": "Array11Length",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array10Smallest",
+            "request": "launch",
+            "mainClass": "Array10Smallest",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array9Largest",
+            "request": "launch",
+            "mainClass": "Array9Largest",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array8Odd",
+            "request": "launch",
+            "mainClass": "Array8Odd",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array7Even",
+            "request": "launch",
+            "mainClass": "Array7Even",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array6Reverse",
+            "request": "launch",
+            "mainClass": "Array6Reverse",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array5Print",
+            "request": "launch",
+            "mainClass": "Array5Print",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array4Duplicate",
+            "request": "launch",
+            "mainClass": "Array4Duplicate",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array3Rotate",
+            "request": "launch",
+            "mainClass": "Array3Rotate",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array1Copy",
+            "request": "launch",
+            "mainClass": "Array1Copy",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayMultiPractice",
+            "request": "launch",
+            "mainClass": "ArrayMultiPractice",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring33",
+            "request": "launch",
+            "mainClass": "Astring33",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring29",
+            "request": "launch",
+            "mainClass": "Astring29",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring26",
+            "request": "launch",
+            "mainClass": "Astring26",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring21",
+            "request": "launch",
+            "mainClass": "Astring21",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring11",
+            "request": "launch",
+            "mainClass": "Astring11",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring10",
+            "request": "launch",
+            "mainClass": "Astring10",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring40",
+            "request": "launch",
+            "mainClass": "Astring40",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring39",
+            "request": "launch",
+            "mainClass": "Astring39",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring34",
+            "request": "launch",
+            "mainClass": "Astring34",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Astring38",
+            "request": "launch",
+            "mainClass": "Astring38",
+            "projectName": "JavaPractices_b56d4ef5"
+        },
+        {
+            "type": "java",
             "name": "Launch Prog27",
             "request": "launch",
             "mainClass": "Strings_Assignment.Prog27",
