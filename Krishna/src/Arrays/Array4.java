@@ -1,6 +1,4 @@
-package Arrays;
-
-public class Array4 
+public class Array4                                                // to print duplicate elements of an array
 {
     public static void main(String[] args) 
     {
@@ -15,6 +13,7 @@ public class Array4
                 if(array[i]==array[j])
 
                 System.out.println(array[i]); 
+                
             }      
        }
     }

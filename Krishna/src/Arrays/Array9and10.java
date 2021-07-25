@@ -1,5 +1,3 @@
-package Arrays;
-
 public class Array9and10 
 {
     public static void main(String[] args) 

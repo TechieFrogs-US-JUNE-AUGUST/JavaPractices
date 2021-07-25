@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Array14and15 
+public class Array21                        //sorting an array.
 {
     public static void main(String[] args) 
     {
@@ -17,7 +16,7 @@ public class Array14and15
         }
 
         int temporary=0;                                                 //Assign a temporary variable with 0
-        System.out.println("Array in Ascending order :");
+        System.out.println("Array sorted in Ascending order :");
 
         for(int i=0;i<array.length;i++)
         {
@@ -32,21 +31,6 @@ public class Array14and15
             }
             System.out.println(array[i]);
         }
-        System.out.println("Array in decending order :");
-
-        for(int i=0;i<array.length;i++)
-        {
-            for(int j=i+1;j<array.length;j++)
-            {
-                if(array[i]<array[j])                 // checks the value present at i and j locations.
-                {
-                    temporary=array[i];                                 //sort the values in decending order
-                    array[i]=array[j];
-                    array[j]=temporary;
-                }
-            }
-            System.out.println(array[i]);
-        }
-          sc.close();
-    } 
+        sc.close();
+    }
 }
