@@ -1,4 +1,4 @@
-package Strings;
+
 public class String18 
 {
     public static void main(String[] args) 

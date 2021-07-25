@@ -1,4 +1,3 @@
-package Strings;
 
 public class Strings19and20
 {                                                         

@@ -1,4 +1,3 @@
-package Strings;
 public class String17 
 {
     public static void main(String[] args) 
