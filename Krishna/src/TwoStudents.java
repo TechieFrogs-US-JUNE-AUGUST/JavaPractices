@@ -25,4 +25,4 @@ class TwoStudents
         System.out.println(); 
         Obj1.display();
    }
-}
+  }
