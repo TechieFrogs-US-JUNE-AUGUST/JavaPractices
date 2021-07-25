@@ -1,3 +1,4 @@
+//TO REMOVE ALL WHITE SPACES FROM A STRING
 package Strings_Assignment;
 
 public class Prog30 {

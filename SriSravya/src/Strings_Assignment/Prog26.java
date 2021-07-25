@@ -1,3 +1,4 @@
+//DIVIDE A STRING IN N EQUAL PARTS
 package Strings_Assignment;
 
 public class Prog26 {

@@ -1,3 +1,4 @@
+//CONVERT EVERY WORD OF A STRING TO UPPERCASE
 package Strings_Assignment;
 
 public class Prog16 {

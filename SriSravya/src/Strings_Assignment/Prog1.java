@@ -1,5 +1,5 @@
 package Strings_Assignment;
-
+//COUNT THE NUMBER OF VOWELS, CONSONANTS, DIGITS AND SPACES IN A SENTENCE
 public class Prog1 {
     public static void main(String[] args) {
         String s="My name is Sri Sravya21";

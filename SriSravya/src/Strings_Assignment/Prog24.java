@@ -1,3 +1,4 @@
+//TO COUNT THE TOTAL NUMBER OF VOWELS AND CONSONANTS IN A STRING
 package Strings_Assignment;
 
 public class Prog24 {

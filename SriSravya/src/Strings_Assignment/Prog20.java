@@ -1,3 +1,4 @@
+//TO CHECK IF A STRING CONTAINS SUBSTRING USING INDEXOF()
 package Strings_Assignment;
 
 public class Prog20 {

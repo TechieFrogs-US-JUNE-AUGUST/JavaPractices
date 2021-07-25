@@ -2,7 +2,7 @@ package strings;
 
 public class String37 {
     public static void main(String[] args) {
-        String str="strings";
+        String str="strsings";
         char str1[]=str.toCharArray();
         System.out.println("Entered string is :" +str);
         System.out.println(str.length());
@@ -13,7 +13,7 @@ public class String37 {
                 if(str1[i]==str1[j])
                 {
 
-                System.out.println(str1[j] + " ");
+                System.out.println(str1[i] + " ");
                 
                 }
             }
