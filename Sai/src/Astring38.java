@@ -4,7 +4,7 @@ public class Astring38{
         Scanner duplicateString = new Scanner(System.in);
         System.out.println("Give the input String : ");
         String inputString = duplicateString.nextLine();
-        inputString = inputString.toLowerCase();// converting all letters intlo lowercase
+        //inputString = inputString.toLowerCase();// converting all letters intlo lowercase
         String[] words = inputString.split("[ ,.]");//for splitting more than 1,create an array
         int length = words.length;             //.split makes string into tokens with given array objects
         for(int i = 0; i<length; i++){
