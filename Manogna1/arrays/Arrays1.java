@@ -4,6 +4,7 @@ public class Arrays1  //prog to copy all elements of one array to another array
 {
     public static void main(String[] args) {
         int array1[]={1,2,3,4,5}; //Initialize an array
+       
         int array2[]=new int[array1.length]; //initialize another array with same size
         System.out.println("Original Array :" );
         for(int i=0;i<array1.length;i++)
