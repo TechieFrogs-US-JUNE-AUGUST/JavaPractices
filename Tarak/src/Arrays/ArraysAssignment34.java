@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Scanner;
 
-public class ArraysAssignment30 {
+public class ArraysAssignment34 {
     public static void main(String[] args) {
         Scanner scannerObject=new Scanner(System.in);
         System.out.println("enter rows of array");
@@ -23,19 +23,16 @@ public class ArraysAssignment30 {
             }
             System.out.println();
         }
+        double average=1;
+        int sum=0;
+        int size=row*col;
         for(int i=0;i<row;i++){
-            int sumOfRow=0;
             for(int j=0;j<col;j++){
-                sumOfRow=sumOfRow+matrix[i][j];   // summing the row
-            }
-            System.out.println("sum of "+(i+1)+" row is: "+sumOfRow);
+            sum=sum+matrix[i][j];
+            average=sum/size;
+            }  
         }
-        for(int i=0;i<col;i++){
-            int sumOfcol=0;
-            for(int j=0;j<row;j++){
-                sumOfcol=sumOfcol+matrix[j][i];  // summing the coloumn
-            }
-            System.out.println("sum of "+(i+1)+" coloumn is: "+sumOfcol);
+        System.out.println("average of matrix is: "+average);
         }
     }
-}
+

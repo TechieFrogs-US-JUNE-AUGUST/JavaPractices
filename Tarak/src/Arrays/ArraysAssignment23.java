@@ -16,7 +16,7 @@ public class ArraysAssignment23 {
             matrix[i][j]=scannerObject.nextInt();
             }
         }
-        System.out.println("input matrix-1 is");
+        System.out.println("input matrix is");
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
             System.out.print(matrix[i][j]+" ");
