@@ -1,4 +1,4 @@
-package Inheritance;
+package inheritance;
 class PurchaseItem{
     private String name;
     private double unitPrice;

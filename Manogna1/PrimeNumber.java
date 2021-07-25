@@ -6,7 +6,7 @@ public class PrimeNumber {
         //if (n == 2)
            // System.out.println("This is Even Prime");
         //else {
-            for (i = 2; i <= n / 2; ++i )
+            for (i = 2; i <= n / 2; ++i )//number is not divisible by more than its half
                 {
                     if (n % i == 0) {
 

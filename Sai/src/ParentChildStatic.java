@@ -8,7 +8,7 @@ class ChildClas extends ParentClass{  // child class extend parent class for acc
         System.out.println("This is Child Class");
     }
 }
-class ParentChildStatic{
+public class ParentChildStatic{
     public static void main(String[] args, ParentClas Parentclas){
     ParentClas p = new ParentClas(); // for parent class
     ChildClas c = new ChildClas();   // for chold class

@@ -10,5 +10,6 @@ public class Factorial {
         for(int num1=1;num1<=num2;num1++)
             factorial = factorial*num1;
         System.out.println("Factorial of given number is " +factorial);
+        sc.close();
     }
 }

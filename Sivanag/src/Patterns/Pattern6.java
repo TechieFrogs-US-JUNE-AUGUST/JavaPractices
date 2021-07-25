@@ -1,0 +1,21 @@
+package Patterns;
+
+public class Pattern6 {
+    
+    public static void main(String[] args) {
+        for(int i=65;i<=70;i++)
+        {
+            for(int k=0;k<=70-i;k++)
+            System.out.print(" ");
+            for(int j= 65;j<=i;j++)
+            {
+                System.out.print((char)j +" ");
+
+            }
+            System.out.println("");
+        }
+
+    }
+
+    
+}

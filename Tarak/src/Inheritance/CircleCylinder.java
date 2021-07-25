@@ -1,5 +1,5 @@
 package Inheritance;
-
+import java.lang.String;
 import java.util.Scanner;
 class Circle1{
     double radius;
@@ -29,17 +29,17 @@ class Circle1{
         return 3.14*radius*radius;
     }
 }
-class Cylinder extends Circle1{
+class Cylinder1 extends Circle1{
     double height;
-    Cylinder(){}
-    Cylinder(double radius){
+    Cylinder1(){}
+    Cylinder1(double radius){
         this.radius=radius;
     }
-    Cylinder(double radius,double height){
+    Cylinder1(double radius,double height){
         this.radius=radius;
         this.height=height;
     }
-    Cylinder(double radius,double height,String colour){
+    Cylinder1(double radius,double height,String colour){
         this.radius=radius;
         this.height=height;
         this.colour=colour;
@@ -69,7 +69,7 @@ public class CircleCylinder {
         double height=sc.nextDouble();
         Circle1 obj1=new Circle1(radius,colour);
         System.out.println("area of circle: "+obj1.getArea());
-        Cylinder obj2=new Cylinder(radius,height,colour);
+        Cylinder1 obj2=new Cylinder1(radius,height,colour);
         System.out.println("surface area of cylinder is: "+obj2.getArea());
         System.out.println("volume of cylinder is: "+obj2.getVolume());
     }
