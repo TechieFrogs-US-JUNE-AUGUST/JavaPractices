@@ -35,7 +35,7 @@ public class Arrays27 {
                 }
                 System.out.println();
             }
-            System.out.println("Lower Triangular Matrix is :");
+            System.out.println("Upper Triangular Matrix is :");
             for(int i=0;i<rows;i++)
             {
                 for (int j=0;j<columns;j++)

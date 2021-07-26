@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Scanner;
 
-public class Arrays29 {
+public class Arrays38 {
     public static void main(String[] args) {
         int matrix1[][]=new int[5][5];
         int matrix2[][]=new int[5][5];
@@ -15,7 +15,6 @@ public class Arrays29 {
         int rows2=scannerObj.nextInt();
         System.out.println("Number of Columns in Second Array:");
         int columns2=scannerObj.nextInt(); 
-        int productMatrix[][]=new int[rows1][columns2];
         if(columns1!=rows2)
         {
             System.out.println("Matrices cannot be multiplied");
@@ -39,27 +38,45 @@ public class Arrays29 {
                 }
             } 
         }
-        for(int i=0;i<rows1;i++)
-        {
-            for(int j=0;j<columns2;j++)
-            {
-                for(int k=0;k<columns1;k++)
-                {
-                    productMatrix[i][j]=productMatrix[i][j]+matrix1[i][k]*matrix2[k][j];
-                }
-                //productMatrix[i][j]=0;
-            }
-        } 
-        for(int i=0;i<rows1;i++)
-        {
-            for(int j=0;j<columns2;j++)
-            {
-                System.out.print(productMatrix[i][j] + "  ");
-            }
-            System.out.println();
-        } 
+        int[][] product=multiplyMatrices(matrix1,matrix2,rows1,columns1,columns2);
+        displayProduct(product);
         scannerObj.close();
+    }    
 
-    }
+        public static int[][] multiplyMatrices(int[][] matrix1,int[][] matrix2,int rows1,int columns1,int columns2)
+        {
+                int[][] product=new int[rows1][columns2];
+                for(int i=0;i<rows1;i++)
+            {
+                for(int j=0;j<columns2;j++)
+                {
+                    for(int k=0;k<columns1;k++)
+                    {
+                        product[i][j]=product[i][j]+matrix1[i][k]*matrix2[k][j];
+                    }
+                }    
+
+            }
+            return product;
+        }
+        public static void displayProduct(int[][] product)
+        {
+            System.out.println("product of two matrices :");
+            for(int[] row:product)
+            {
+                for(int column:row)
+                {
+                    System.out.print(column +" ");
+                }
+                System.out.println();
+            }
+            
+                
+        }
+
+
+
+
+
     
 }
