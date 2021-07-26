@@ -1,3 +1,5 @@
+package OOPS;
+
 class Rectangle
 {
     int Area(int l,int b)

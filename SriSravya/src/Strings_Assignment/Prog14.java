@@ -1,3 +1,4 @@
+//CLEAR THE STRING BUFFER BY CREATING A NEW OBJECT
 package Strings_Assignment;
 
 public class Prog14 {

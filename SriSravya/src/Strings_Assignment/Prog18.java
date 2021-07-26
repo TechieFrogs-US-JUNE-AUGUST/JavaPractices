@@ -1,3 +1,4 @@
+//ITERATE THROUGH EACH CHAR OF STRING USING FOR-EACH LOOP
 package Strings_Assignment;
 
 public class Prog18 {

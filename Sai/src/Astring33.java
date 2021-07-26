@@ -2,7 +2,9 @@ import java.util.Scanner;
 
 public class Astring33{
     public static void main(String[] args){
-        String inputString = "SAS";
+        Scanner obj = new Scanner(System.in);
+        System.out.println("Give the String");
+        String inputString = obj.nextLine();
         StringBuffer inputBuffer = new StringBuffer(inputString);
         inputBuffer.reverse();
         String reverseString = inputBuffer.toString();
@@ -10,5 +12,6 @@ public class Astring33{
             System.out.println(inputString + " is a Palindrome String");
         else
             System.out.println(inputString + " is not a Palindrome String");
+        obj.close();
     }
 }

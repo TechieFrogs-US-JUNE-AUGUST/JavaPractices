@@ -1,3 +1,4 @@
+//TO REPLACE LOWER-CASE CHAR WITH UPPER-CASE AND VICE-VERSA
 package Strings_Assignment;
 
 public class Prog31 {

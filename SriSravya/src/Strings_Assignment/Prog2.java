@@ -1,5 +1,5 @@
+//SORT ELEMENTS IN LEXICOGRAPHICAL ORDER
 package Strings_Assignment;
-
 public class Prog2 {
     public static void main(String[] args) {
         String words[]={"Sravya","Venkat","Ramya","Harshitha"};

@@ -1,3 +1,4 @@
+//TO FIND THE DUPLICATE CHAR IN THE STRING
 package Strings_Assignment;
 
 public class Prog37 {

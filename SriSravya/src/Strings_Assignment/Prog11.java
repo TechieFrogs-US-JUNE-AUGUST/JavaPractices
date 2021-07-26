@@ -1,3 +1,4 @@
+//TO CREATE RADOM ALPHANUMERIC STRING(STRING BUILDER)
 package Strings_Assignment;
 import java.util.Random;
 
