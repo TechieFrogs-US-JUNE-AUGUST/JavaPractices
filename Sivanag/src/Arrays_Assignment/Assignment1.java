@@ -1,6 +1,23 @@
 //Copy all Element of one array to another array
 package Arrays_Assignment;
+
+import java.util.Scanner;
+
 public class Assignment1 {
+    public static int[] assignArray()
+    {
+        Scanner scannerObj= new Scanner(System.in);
+        System.out.print("Enter Length of an Array : ");
+        int size=scannerObj.nextInt();
+        System.out.println("Enter Array Elements");
+        int[] array1=new int[size];
+        for(int i=0;i<size;i++)
+        {
+            array1[i]=scannerObj.nextInt();
+        }
+        scannerObj.close();
+        return array1;
+    }
     static void displayArray(int[] ar)
     {
         for(int i=0;i<ar.length;i++)
