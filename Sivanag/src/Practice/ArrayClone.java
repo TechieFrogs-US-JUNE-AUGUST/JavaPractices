@@ -10,7 +10,7 @@ public class ArrayClone {
         }
         System.out.println();
     }
-    static void displayArray(int[][] ar)
+    public static void displayArray(int[][] ar)
     {
         for(int i=0;i<ar.length;i++)
         {
