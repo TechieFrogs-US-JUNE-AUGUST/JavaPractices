@@ -6,6 +6,405 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Arrays36MultiDimensionalArrayAddTwoMatrices",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays36MultiDimensionalArrayAddTwoMatrices",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays38MultiplyMatricesPassingMatrixToFunction",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays38MultiplyMatricesPassingMatrixToFunction",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays41CancatenateTwoArrays",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays41CancatenateTwoArrays",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays42ConvertCharacterToString",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays42ConvertCharacterToString",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays43CkeckArrayHasGivenValue",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays43CkeckArrayHasGivenValue",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays32JaggedArrayAddTwoMatrices",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays32JaggedArrayAddTwoMatrices",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays39FindTransposeOfAMatrices",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays39FindTransposeOfAMatrices",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays31FindTransposeOfGivenMatrix",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays31FindTransposeOfGivenMatrix",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays30FindSumOfEachRowsAndColumn",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays30FindSumOfEachRowsAndColumn",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays37MultiDimensionalArrayMultiplyMatrices",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays37MultiDimensionalArrayMultiplyMatrices",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays29FindProductOfTwoMatrices",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays29FindProductOfTwoMatrices",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays28FindFrequencyOfOddAndEvenNumbers",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays28FindFrequencyOfOddAndEvenNumbers",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays27UpperTriangularMatrix",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays27UpperTriangularMatrix",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays26LowerTriangularMatrices",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays26LowerTriangularMatrices",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays24SparseMatrix",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays24SparseMatrix",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays23IdentityMatrix",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays23IdentityMatrix",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays22SubtractTwoMatrices",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays22SubtractTwoMatrices",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays21SortAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays21SortAnArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays20OddAndEvenNumbersInAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays20OddAndEvenNumbersInAnArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays19RemoveDuplicateElementInAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays19RemoveDuplicateElementInAnArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays18FindSecondSmallestNumber",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays18FindSecondSmallestNumber",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays17FindSecondLargestNumber",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays17FindSecondLargestNumber",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays16FindThirdLargestNumber",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays16FindThirdLargestNumber",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays15SortElementsInDescendingOrder",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays15SortElementsInDescendingOrder",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays14SortInAscendingoOreder",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays14SortInAscendingoOreder",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays13RotateRightElementsOfArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays13RotateRightElementsOfArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays10SmallestElementInAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays10SmallestElementInAnArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays9LargestElementInAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays9LargestElementInAnArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays8OddPosition",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays8OddPosition",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays6PrintArraysInReverseOrder",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays6PrintArraysInReverseOrder",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays4DuplicateElementsOfArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays4DuplicateElementsOfArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays3RotateTheElementsOfArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays3RotateTheElementsOfArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays2FrequencyOfArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays2FrequencyOfArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array1CopyOneArrayTOAnother",
+            "request": "launch",
+            "mainClass": "Arrays.Array1CopyOneArrayTOAnother",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedHalfPyramid",
+            "request": "launch",
+            "mainClass": "Patternsjava.InvertedHalfPyramid",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays7EvenPosition",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays7EvenPosition",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays12PrintSumofAllItemsofArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays12PrintSumofAllItemsofArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array40PrintAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.Array40PrintAnArray",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays11PrintNumofElements",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays11PrintNumofElements",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays5PrintTheElements",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays5PrintTheElements",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Patteralphabet4",
+            "request": "launch",
+            "mainClass": "Patternsjava.Patteralphabet4",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayPractice",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayPractice",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAlphabet11",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAlphabet11",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAplabet19",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAplabet19",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAlphabet10",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAlphabet10",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAplabet6",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAplabet6",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAlphabet9",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAlphabet9",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternsAlphabet",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternsAlphabet",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAlphabet8",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAlphabet8",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAlphabet7",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAlphabet7",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Patternalphabet6",
+            "request": "launch",
+            "mainClass": "Patternsjava.Patternalphabet6",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAlphabet3",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAlphabet3",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAlphabet6",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAlphabet6",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternsAlphabet5",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternsAlphabet5",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Patternalphabet5",
+            "request": "launch",
+            "mainClass": "Patternsjava.Patternalphabet5",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternAlphabet1",
+            "request": "launch",
+            "mainClass": "Patternsjava.PatternAlphabet1",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern5",
+            "request": "launch",
+            "mainClass": "Patternsjava.Pattern5",
+            "projectName": "JavaPractices_5bcc8cd0"
+        },
+        {
+            "type": "java",
             "name": "Launch Prog21",
             "request": "launch",
             "mainClass": "Strings_Assignment.Prog21",
