@@ -35,7 +35,7 @@ public class Arrays36MultiDimensionalArrayAddTwoMatrices
             }
             System.out.println();
         }
-        System.out.println("second array:");
+        System.out.println("Second array:");
         for (int i = 0; i < arrayB.length; i++) 
         {
             for (int j = 0; j < arrayB[i].length; j++) 
@@ -44,7 +44,7 @@ public class Arrays36MultiDimensionalArrayAddTwoMatrices
             }
             System.out.println();
         }
-        System.out.println("addition of first and second matrix:");
+        System.out.println("Addition of first and second matrix:");
         for (int i = 0; i < arrayC.length; i++) 
         {
             for (int j = 0; j < arrayC[i].length; j++) 
