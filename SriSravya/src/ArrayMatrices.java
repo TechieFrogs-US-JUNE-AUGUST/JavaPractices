@@ -4,7 +4,7 @@
         int a[][]= {{1,2},{3,4}};                 //a and b matrices should be of equal size for addition
         int b[][]= {{5,6},{7,8}};
 
-        int c[][]= new int[2][2];           //c matrice of 2 rows and 2 columns is used for storing the sum of 2 martices a and b
+        int c[][]= new int[2][2];           //c matrix of 2 rows and 2 columns is used for storing the sum of 2 martices a and b
 
         for(int i=0; i<2; i++){
             for(int j=0; j<2; j++){
@@ -20,10 +20,10 @@
 //SUBTRACTION OF 2 MATRICES
 /* public class ArrayMatrices {
     public static void main(String[] args) {
-        int a[][]= {{1,2},{3,4}};                 //a and b matrices should be of equal size for addition
+        int a[][]= {{1,2},{3,4}};                 //a and b matrices should be of equal size for subtraction
         int b[][]= {{5,6},{7,8}};
 
-        int c[][]= new int[2][2];           //c matrice of 2 rows and 2 columns is used for storing the sum of 2 martices a and b
+        int c[][]= new int[2][2];           //c matrix of 2 rows and 2 columns is used for storing the difference of 2 martices a and b
 
         for(int i=0; i<2; i++){
             for(int j=0; j<2; j++){
@@ -42,7 +42,7 @@ public class ArrayMatrices {
         int a[][]= {{1,2},{3,4}};
         int b[][]= {{5,6},{7,8}};
 
-        int c[][]= new int[2][2];           //c matrice of 2 rows and 2 columns is used for storing the sum of 2 martices a and b
+        int c[][]= new int[2][2];           //c matrix of 2 rows and 2 columns is used for storing the product of 2 martices a and b
 
         for(int i=0; i<2; i++){           //multiplying and printing multiplication of 2 matrices   
             for(int j=0; j<2; j++){
