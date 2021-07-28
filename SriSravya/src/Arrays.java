@@ -90,7 +90,7 @@ import java.util.Scanner;
 
 
 
-public class Arrays{
+/*public class Arrays{
 
     static int[] someArray(){                 //someArray method returns an array
         return new int[]{1,2};
@@ -103,5 +103,21 @@ public class Arrays{
     
     public static void main(String[] args) {
     display(someArray());                        //calling display method with someArray method as arguments
-  }   
-}       
+  }                                             //here someArray method is returning an anonymous array values which are int
+}   */                                //so internally it become display(new int[]{1,2}) and call display method of arguments as int type
+
+
+
+//passing array to method 
+public class Arrays{
+    public static void display(int b[]){
+        for(int i=0; i<b.length; i++){
+            System.out.println(b[i]);
+        }
+    }
+      public static void main(String[] args) {
+          int arr[]= {1,2,3};
+          display(arr);
+      }
+}
+
