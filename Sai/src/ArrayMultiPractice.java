@@ -52,7 +52,7 @@ public class ArrayMultiPractice{
                 System.out.print(multi1[row][column] + " ");
             }
         System.out.println();
-
+        scannerArray.close();
         }
     }  
 }
