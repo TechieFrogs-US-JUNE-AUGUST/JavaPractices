@@ -109,6 +109,7 @@ public class InheritanceAssignment11{
         cylinderobj.getArea();
         cylinderobj.getVolume();
         circleobj.getArea();
+        sc.close();
 
         
 

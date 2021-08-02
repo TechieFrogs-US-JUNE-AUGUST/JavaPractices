@@ -38,6 +38,7 @@ public class BankBalance6 {
         BankA a =new BankA();
         BankB b1= new BankB();
         BankC c=new BankC();
+        b.getBalance();
         a.getBalance();
         b1.getBalance();
         c.getBalance();

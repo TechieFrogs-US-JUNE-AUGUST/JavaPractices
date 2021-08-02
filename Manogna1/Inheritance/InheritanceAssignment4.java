@@ -44,10 +44,11 @@ public class InheritanceAssignment4 {
         int bre=sc.nextInt();
         System.out.println("Enter Side of a Square :");
         int ss=sc.nextInt();
-        System.out.println("Area and Perimeter of Rectangle :");
-        Rectangle r = new Rectangle(len, bre);
+        System.out.println("Area and Perimeter of Rectangle :" );
+        new Rectangle(len, bre);
         System.out.println("Area and Perimeter of Square :");
-        Square s= new Square(ss);
+        new Square(ss);
+
 
         sc.close();
 
