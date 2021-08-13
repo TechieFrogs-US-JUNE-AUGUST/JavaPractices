@@ -12,6 +12,5 @@ public class Exception9 {
         }catch(FileNotFoundException ffe){
             System.out.println("File Doesnot Exist");
         }
-    }
-    
+    }    
 }

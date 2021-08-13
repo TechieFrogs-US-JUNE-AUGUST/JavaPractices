@@ -8,9 +8,7 @@ public class Assignment10 {
         System.out.println("Enter Age");
        int age[]=new int[20];
          int fees=0;
-       
-      
-    
+
      /* scannerObj.useDelimiter("/");
        while(true)
        {
