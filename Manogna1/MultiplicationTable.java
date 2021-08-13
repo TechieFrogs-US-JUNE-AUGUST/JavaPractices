@@ -7,8 +7,9 @@ public class MultiplicationTable {
         System.out.println("Enter The Value");
         int num=sc.nextInt();
         int i;
+        sc.close();
         for(i=1;i<=10;i++)
             System.out.println(num+ "*" +i+ "=" +num*i);
-            sc.close();
+            
     }
 }
