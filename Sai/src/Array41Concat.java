@@ -20,7 +20,7 @@ public class Array41Concat {
         System.arraycopy(Array1, 0 , concat , 0 ,length1);
         System.arraycopy(Array2, 0 , concat , length1 ,length2);
         System.out.println(Arrays.toString(concat)); 
-
+        scannerObj.close();
     }
     
 }

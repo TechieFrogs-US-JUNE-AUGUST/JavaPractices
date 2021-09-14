@@ -1,6 +1,6 @@
 public class Astring28 {
     public static void main(String[] args){
-        int n = Math.min(s.length(),t.length());  
+      /*int n = Math.min(s.length(),t.length());  
         for(int i = 0; i < n; i++){  
             if(s.charAt(i) != t.charAt(i)){  
                 return s.substring(0,i);  
@@ -22,6 +22,6 @@ public class Astring28 {
                 if(x.length() > lrs.length()) lrs=x;  
             }  
         }  
-        System.out.println("Longest repeating sequence: "+lrs);  
+        System.out.println("Longest repeating sequence: "+lrs);  */
     }  
 }  

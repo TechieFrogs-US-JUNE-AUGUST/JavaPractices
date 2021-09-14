@@ -41,5 +41,6 @@ public class Array29Product{
                 System.out.println();
         }
         }   
+        scannerArray.close();
     }
 }
