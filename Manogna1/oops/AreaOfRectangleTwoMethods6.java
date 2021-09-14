@@ -10,6 +10,7 @@ class Area1{
         System.out.println("Enter Breath of the Rectangle");
         int b= sc.nextInt();
         System.out.println("Area of Rectangle " +getArea(l,b));
+        sc.close();
     }
     int getArea(int l,int b){
     return(l*b);

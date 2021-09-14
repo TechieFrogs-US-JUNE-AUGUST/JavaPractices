@@ -22,6 +22,7 @@ public class ParentChild8 {
        // B.display();
         A b=new B();
         b.display();
+        a.display();
 
     }
     
