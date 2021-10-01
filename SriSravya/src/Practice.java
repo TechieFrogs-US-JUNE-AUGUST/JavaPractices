@@ -1,4 +1,3 @@
-import sravya.com.company.AccessModifiers;
 
 public class Practice {
     public static void main(String[] args){
@@ -30,11 +29,18 @@ public class Practice {
         //System.out.println(x>y || x<z);
         //System.out.println(x<y | x>z);
 
-    int min=(x>y)?x:y;
+    /* int min=(x>y)?x:y;
        System.out.println(min);
        System.out.println(x>=y);
        AccessModifiers obj=new AccessModifiers();
-       obj.practice();
+       obj.practice();      */
+
+       String s1="sri";
+       String s2="sravya";
+       s1=s1+s2;
+       s2= s1.substring(0, s1.length()-s2.length());
+       s1= s1.substring(s2.length());
+       System.out.println(s1 + "   " +s2);
     }
     
 }
