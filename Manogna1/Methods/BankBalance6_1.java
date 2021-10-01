@@ -30,7 +30,7 @@ class Bank1{
 
 public class BankBalance6_1 {
     public static void main(String[] args) {
-        Bank1 b= new Bank1();
+        new Bank1();
         BankA1 A1 =new BankA1();
         BankB1 B1= new BankB1();
         BankC1 C1=new BankC1();

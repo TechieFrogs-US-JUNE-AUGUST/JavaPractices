@@ -16,15 +16,17 @@ class Banana extends Apple{
         int i= super.number_of_items;
         System.out.println("Number of Items in Apple : " +number_of_items);
         System.out.println("Number of Items in Banana : " +i);
+        sc.close();
 
     }
     Banana(){
         show();
     }
+    
 }
 public class InheritanceAssignment10 {
     public static void main(String[] args) {
-        Banana bananaobj=new Banana();
+        new Banana();
         
     }
    

@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-import javax.lang.model.util.ElementScanner14;
-
 public class Array43Contains {
     public static void main(String args[]){
         Scanner scannerObj = new Scanner(System.in);
