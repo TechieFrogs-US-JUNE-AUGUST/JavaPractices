@@ -1,4 +1,4 @@
-package src.Assignment_Wipro;
+
 
 public class Assignment6 {
     public static void main(String[] args) {

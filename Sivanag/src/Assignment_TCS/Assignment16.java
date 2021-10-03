@@ -1,4 +1,4 @@
-package src.Tcs_Assignment;
+
 
 public class Assignment16 {
     static String vowelsReplace(String st)

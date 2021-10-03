@@ -1,5 +1,3 @@
-package src.Assignment_Wipro;
-
 public class Assignment9 {
     static Boolean primeNumberChk(int num)
     {

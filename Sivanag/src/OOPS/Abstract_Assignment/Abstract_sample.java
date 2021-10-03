@@ -1,3 +1,5 @@
+package src.OOPS.Abstract_Assignment;
+
 public class Abstract_sample  {
     
 public static void main(String[] args)

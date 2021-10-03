@@ -1,5 +1,3 @@
-package src.Assignment_Wipro;
-
 public class Assignment12 {
     static int[] sortInt(int[] num)
     {

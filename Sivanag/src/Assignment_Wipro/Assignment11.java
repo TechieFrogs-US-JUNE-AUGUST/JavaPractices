@@ -1,5 +1,3 @@
-package src.Assignment_Wipro;
-
 public class Assignment11 {
     static int revNumber(int num)
     {

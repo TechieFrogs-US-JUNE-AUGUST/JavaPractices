@@ -12,8 +12,7 @@ public class Assignment5 {
     if(string1==string2)
     System.out.println("True");
     else
-    System.out.println("False"
-    );
+    System.out.println("False");
 
     if(string1==string3 && string2==string3)
     System.out.println("True");

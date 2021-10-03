@@ -1,4 +1,4 @@
-package src.Tcs_Assignment;
+
 
 import java.util.Arrays;
 import java.util.Scanner;

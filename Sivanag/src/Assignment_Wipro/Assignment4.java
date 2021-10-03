@@ -1,4 +1,4 @@
-package src.Assignment_Wipro;
+
 public class Assignment4 {
     public static void main(String[] args) {
         System.out.print("Enter Barcode Number of Cosmotics: ");

@@ -1,5 +1,3 @@
-package src.Assignment_Wipro;
-
 public class Assignment14 {
     static void displayMatrix(int[][] matrix)
     {

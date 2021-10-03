@@ -1,5 +1,3 @@
-package src.Tcs_Assignment;
-
 import java.util.Scanner;
 public class Assignment1
 {

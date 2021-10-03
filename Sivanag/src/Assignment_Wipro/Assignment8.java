@@ -1,4 +1,3 @@
-package src.Assignment_Wipro;
 import java.util.Scanner;
 public class Assignment8 {
     static int integerInput()

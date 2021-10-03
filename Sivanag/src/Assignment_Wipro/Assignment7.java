@@ -1,5 +1,3 @@
-package src.Assignment_Wipro;
-
 public class Assignment7 {
     static void displayArray(int[] array)
     {

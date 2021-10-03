@@ -1,5 +1,3 @@
-package src.Assignment_Wipro;
-
 import java.util.Scanner;
 
 public class Assignment2 {
