@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-import javax.sound.midi.Sequencer.SyncMode;
-
 public class ArrayMultiPractice{
     public static void main(String[] args){
         //int array = {{1,2},{1.2}};// we did not declared the identifer as an array so type mismatch error

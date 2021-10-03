@@ -12,6 +12,7 @@ class EmployeeC{
         EmployeeC em1 = new EmployeeC("Robert",1994,"    64C - WallsStreat"); //calling with parameters
         EmployeeC em2 = new EmployeeC("Sam   ",2000,"    68D - WallsStreat");
         EmployeeC em3 = new EmployeeC("John  ",1999,"    26B - WallStreat");
+        System.out.println("em = "+em+" , "+"em1 = " +em1+" , "+"em2 = " +em2+" , "+"em3 = "+em3);
     
     }
 }
